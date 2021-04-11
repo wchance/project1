@@ -2,5 +2,5 @@
 
 ## Contributors
 * Juan Carlos Castaneda
-* Juan Carlos Castaneda
+* William Chance
 * Jorge Sira
