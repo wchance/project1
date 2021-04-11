@@ -10,7 +10,7 @@ William Chance, Juan Carlos Castaneda, Jorge Sira
 
 Our portfolios change over time and most platforms show your historical data, and your current performance, but not many of them can track the different stages in portfolios and keep them to compare to the chosen Portfolio.  This project will require to develop a tool to keep track the different stages of the user's portfolio as screentshots on a gallery that you can scroll to see what would have been the performance To-Date of a given portfolio. Also it will keep track of every stock/portfolio included in the user's Watch lists and show the performance To-Date.
 
-![PORTFOLIOS TIME MACHINE](https://github.com/wchance/project1/blob/develop/Portfolios_Time_Machine.pdf)
+[PORTFOLIOS TIME MACHINE](https://github.com/wchance/project1/blob/develop/Portfolios_Time_Machine.pdf)
 
 For the scope of this work the service will be available for users conected with any of  three mayor brokers: Interactive Brokers("i Use this one and i'm familiar with it",) Robinhood, and XXXXXXXXX. By the use of APIS, a pull request of the data will gather the required information. An alternate method would be the use of platforms like [PLAID](https://plaid.com/products/auth/overview/?utm_source=google&utm_medium=search&utm_campaign=Search_G_Brand_Exact&utm_content=plaid&utm_term=plaid&utm_creative=481138286147&gclid=CjwKCAjwvMqDBhB8EiwA2iSmPEw55UTNOCqFC1q8oKE0GIMjkTe89u_oL4OGWFk-k7cvzULYNdFxoBoCKOsQAvD_BwE), that require the use of a single API, to connect to a larger list of Brokers.
 
