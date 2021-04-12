@@ -21,3 +21,28 @@ The algorithm will return the performance of any portfolio, based on the data, w
 
 Depending on the result of the Develpment stage, we can turn the code into a web app. By the use of a templated tool like [Bubble](https://bubble.io/welcome), wich uses no code drag-and-drop block of actions to develop apps.
 Develpoment of a basic website
+
+# Fintech Project 
+1## Manage Portfolios Investment 
+
+We have to created three portfolios 
+1. Conservative 
+2. medium 
+3. Aggressive 
+
+We look for investors to give the best Return on investment The total amount won yearly we charge 10% from earnings
+
+What we have to do: 
+    Dashboards with Total Money Invested 
+    Total Number if Investors 
+    Percentage of Total fund by investors 
+    Percentage of investment in different markets 
+    We have to do projection based on Monte Carlo simulation 
+    Connect with APIs and compare portfolios with SAP500 Trying to have the best return of investment with lower risk
+
+Investors Can see how is their performance How much income they have if they decided to withdraw 
+
+# Collaborators:
+    - William Chance 
+    - Jorge Sira 
+    - Juan Carlos Castaneda
