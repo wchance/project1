@@ -1,0 +1,673 @@
+[ {
+  "dateAdded" : "August 31, 2020",
+  "addedSecurity" : "Salesforce.Com Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-08-31",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CRM"
+}, {
+  "dateAdded" : "August 31, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "RTX",
+  "removedSecurity" : "Raytheon Technologies Corp",
+  "date" : "2020-08-31",
+  "reason" : "Market capitalization change",
+  "symbol" : "RTX"
+}, {
+  "dateAdded" : "August 31, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "PFE",
+  "removedSecurity" : "Pfizer Inc",
+  "date" : "2020-08-31",
+  "reason" : "Market capitalization change",
+  "symbol" : "PFE"
+}, {
+  "dateAdded" : "August 31, 2020",
+  "addedSecurity" : "Honeywell International Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-08-31",
+  "reason" : "Market capitalization change.",
+  "symbol" : "HON"
+}, {
+  "dateAdded" : "August 31, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "XOM",
+  "removedSecurity" : "Exxon Mobil Corp",
+  "date" : "2020-08-31",
+  "reason" : "Market capitalization change",
+  "symbol" : "XOM"
+}, {
+  "dateAdded" : "August 31, 2020",
+  "addedSecurity" : "Amgen Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-08-31",
+  "reason" : "Market capitalization change.",
+  "symbol" : "AMGN"
+}, {
+  "dateAdded" : "April 2, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "DD",
+  "removedSecurity" : "Dupont De Nemours Inc",
+  "date" : "2019-04-02",
+  "reason" : "Market capitalization change",
+  "symbol" : "DD"
+}, {
+  "dateAdded" : "April 2, 2019",
+  "addedSecurity" : "Dow Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-04-02",
+  "reason" : "Market capitalization change.",
+  "symbol" : "DOW"
+}, {
+  "dateAdded" : "June 26, 2018",
+  "addedSecurity" : "Walgreens Boots Alliance Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-06-26",
+  "reason" : "Market capitalization change.",
+  "symbol" : "WBA"
+}, {
+  "dateAdded" : "June 26, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "GE",
+  "removedSecurity" : "General Electric Co",
+  "date" : "2018-06-26",
+  "reason" : "Market capitalization change",
+  "symbol" : "GE"
+}, {
+  "dateAdded" : "September 1, 2017",
+  "addedSecurity" : "Dupont De Nemours Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-09-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "DD"
+}, {
+  "dateAdded" : "September 1, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "DD",
+  "removedSecurity" : "Dupont De Nemours Inc",
+  "date" : "2017-09-01",
+  "reason" : "Market capitalization change",
+  "symbol" : "DD"
+}, {
+  "dateAdded" : "March 19, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "T",
+  "removedSecurity" : "AT&T Inc",
+  "date" : "2015-03-19",
+  "reason" : "Market capitalization change",
+  "symbol" : "T"
+}, {
+  "dateAdded" : "March 19, 2015",
+  "addedSecurity" : "Apple Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-03-19",
+  "reason" : "Market capitalization change.",
+  "symbol" : "AAPL"
+}, {
+  "dateAdded" : "September 23, 2013",
+  "addedSecurity" : "Visa Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-09-23",
+  "reason" : "Market capitalization change.",
+  "symbol" : "V"
+}, {
+  "dateAdded" : "September 23, 2013",
+  "addedSecurity" : "Nike Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-09-23",
+  "reason" : "Market capitalization change.",
+  "symbol" : "NKE"
+}, {
+  "dateAdded" : "September 23, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "HPQ",
+  "removedSecurity" : "HP Inc",
+  "date" : "2013-09-23",
+  "reason" : "Market capitalization change",
+  "symbol" : "HPQ"
+}, {
+  "dateAdded" : "September 23, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "HWM",
+  "removedSecurity" : "Howmet Aerospace Inc",
+  "date" : "2013-09-23",
+  "reason" : "Market capitalization change",
+  "symbol" : "HWM"
+}, {
+  "dateAdded" : "September 23, 2013",
+  "addedSecurity" : "Goldman Sachs Group Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-09-23",
+  "reason" : "Market capitalization change.",
+  "symbol" : "GS"
+}, {
+  "dateAdded" : "September 23, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "BAC",
+  "removedSecurity" : "Bank of America Corp",
+  "date" : "2013-09-23",
+  "reason" : "Market capitalization change",
+  "symbol" : "BAC"
+}, {
+  "dateAdded" : "September 24, 2012",
+  "addedSecurity" : "UnitedHealth Group Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-09-24",
+  "reason" : "Market capitalization change.",
+  "symbol" : "UNH"
+}, {
+  "dateAdded" : "September 24, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "MDLZ",
+  "removedSecurity" : "Mondelez International Inc",
+  "date" : "2012-09-24",
+  "reason" : "Market capitalization change",
+  "symbol" : "MDLZ"
+}, {
+  "dateAdded" : "June 8, 2009",
+  "addedSecurity" : "Travelers Companies Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2009-06-08",
+  "reason" : "Market capitalization change.",
+  "symbol" : "TRV"
+}, {
+  "dateAdded" : "June 8, 2009",
+  "addedSecurity" : "",
+  "removedTicker" : "GM",
+  "removedSecurity" : "General Motors Co",
+  "date" : "2009-06-08",
+  "reason" : "Market capitalization change",
+  "symbol" : "GM"
+}, {
+  "dateAdded" : "June 8, 2009",
+  "addedSecurity" : "",
+  "removedTicker" : "C",
+  "removedSecurity" : "Citigroup Inc",
+  "date" : "2009-06-08",
+  "reason" : "Market capitalization change",
+  "symbol" : "C"
+}, {
+  "dateAdded" : "June 8, 2009",
+  "addedSecurity" : "Cisco Systems Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2009-06-08",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CSCO"
+}, {
+  "dateAdded" : "September 22, 2008",
+  "addedSecurity" : "Mondelez International Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2008-09-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "MDLZ"
+}, {
+  "dateAdded" : "September 22, 2008",
+  "addedSecurity" : "",
+  "removedTicker" : "AIG",
+  "removedSecurity" : "American International Group Inc",
+  "date" : "2008-09-22",
+  "reason" : "Market capitalization change",
+  "symbol" : "AIG"
+}, {
+  "dateAdded" : "February 19, 2008",
+  "addedSecurity" : "",
+  "removedTicker" : "HON",
+  "removedSecurity" : "Honeywell International Inc",
+  "date" : "2008-02-19",
+  "reason" : "Market capitalization change",
+  "symbol" : "HON"
+}, {
+  "dateAdded" : "February 19, 2008",
+  "addedSecurity" : "Chevron Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2008-02-19",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CVX"
+}, {
+  "dateAdded" : "February 19, 2008",
+  "addedSecurity" : "Bank of America Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2008-02-19",
+  "reason" : "Market capitalization change.",
+  "symbol" : "BAC"
+}, {
+  "dateAdded" : "February 19, 2008",
+  "addedSecurity" : "",
+  "removedTicker" : "MO",
+  "removedSecurity" : "Altria Group Inc",
+  "date" : "2008-02-19",
+  "reason" : "Market capitalization change",
+  "symbol" : "MO"
+}, {
+  "dateAdded" : "April 8, 2004",
+  "addedSecurity" : "Verizon Communications Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2004-04-08",
+  "reason" : "Market capitalization change.",
+  "symbol" : "VZ"
+}, {
+  "dateAdded" : "April 8, 2004",
+  "addedSecurity" : "Pfizer Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2004-04-08",
+  "reason" : "Market capitalization change.",
+  "symbol" : "PFE"
+}, {
+  "dateAdded" : "April 8, 2004",
+  "addedSecurity" : "",
+  "removedTicker" : "IP",
+  "removedSecurity" : "International Paper Co",
+  "date" : "2004-04-08",
+  "reason" : "Market capitalization change",
+  "symbol" : "IP"
+}, {
+  "dateAdded" : "April 8, 2004",
+  "addedSecurity" : "",
+  "removedTicker" : "EK",
+  "removedSecurity" : "EK",
+  "date" : "2004-04-08",
+  "reason" : "Market capitalization change",
+  "symbol" : "EK"
+}, {
+  "dateAdded" : "April 8, 2004",
+  "addedSecurity" : "",
+  "removedTicker" : "T",
+  "removedSecurity" : "AT&T Inc",
+  "date" : "2004-04-08",
+  "reason" : "Market capitalization change",
+  "symbol" : "T"
+}, {
+  "dateAdded" : "April 8, 2004",
+  "addedSecurity" : "American International Group Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2004-04-08",
+  "reason" : "Market capitalization change.",
+  "symbol" : "AIG"
+}, {
+  "dateAdded" : "November 1, 1999",
+  "addedSecurity" : "",
+  "removedTicker" : "UK",
+  "removedSecurity" : "UK",
+  "date" : "1999-11-01",
+  "reason" : "Market capitalization change",
+  "symbol" : "UK"
+}, {
+  "dateAdded" : "November 1, 1999",
+  "addedSecurity" : "",
+  "removedTicker" : "S",
+  "removedSecurity" : "Sprint Corporation",
+  "date" : "1999-11-01",
+  "reason" : "Market capitalization change",
+  "symbol" : "S"
+}, {
+  "dateAdded" : "November 1, 1999",
+  "addedSecurity" : "Microsoft Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1999-11-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "MSFT"
+}, {
+  "dateAdded" : "November 1, 1999",
+  "addedSecurity" : "Intel Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1999-11-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "INTC"
+}, {
+  "dateAdded" : "November 1, 1999",
+  "addedSecurity" : "Home Depot Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1999-11-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "HD"
+}, {
+  "dateAdded" : "November 1, 1999",
+  "addedSecurity" : "",
+  "removedTicker" : "GT",
+  "removedSecurity" : "Goodyear Tire & Rubber Co",
+  "date" : "1999-11-01",
+  "reason" : "Market capitalization change",
+  "symbol" : "GT"
+}, {
+  "dateAdded" : "November 1, 1999",
+  "addedSecurity" : "",
+  "removedTicker" : "CVX",
+  "removedSecurity" : "Chevron Corp",
+  "date" : "1999-11-01",
+  "reason" : "Market capitalization change",
+  "symbol" : "CVX"
+}, {
+  "dateAdded" : "November 1, 1999",
+  "addedSecurity" : "AT&T Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1999-11-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "T"
+}, {
+  "dateAdded" : "October 8, 1998",
+  "addedSecurity" : "Citigroup Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1998-10-08",
+  "reason" : "Market capitalization change.",
+  "symbol" : "C"
+}, {
+  "dateAdded" : "March 17, 1997",
+  "addedSecurity" : "Walmart Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1997-03-17",
+  "reason" : "Market capitalization change.",
+  "symbol" : "WMT"
+}, {
+  "dateAdded" : "March 17, 1997",
+  "addedSecurity" : "",
+  "removedTicker" : "TX",
+  "removedSecurity" : "Ternium SA",
+  "date" : "1997-03-17",
+  "reason" : "Market capitalization change",
+  "symbol" : "TX"
+}, {
+  "dateAdded" : "March 17, 1997",
+  "addedSecurity" : "Johnson & Johnson",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1997-03-17",
+  "reason" : "Market capitalization change.",
+  "symbol" : "JNJ"
+}, {
+  "dateAdded" : "March 17, 1997",
+  "addedSecurity" : "HP Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1997-03-17",
+  "reason" : "Market capitalization change.",
+  "symbol" : "HPQ"
+}, {
+  "dateAdded" : "March 17, 1997",
+  "addedSecurity" : "",
+  "removedTicker" : "FL",
+  "removedSecurity" : "Foot Locker Inc",
+  "date" : "1997-03-17",
+  "reason" : "Market capitalization change",
+  "symbol" : "FL"
+}, {
+  "dateAdded" : "March 17, 1997",
+  "addedSecurity" : "",
+  "removedTicker" : "CBS",
+  "removedSecurity" : "CBS Corporation Class B",
+  "date" : "1997-03-17",
+  "reason" : "Market capitalization change",
+  "symbol" : "CBS"
+}, {
+  "dateAdded" : "March 17, 1997",
+  "addedSecurity" : "",
+  "removedTicker" : "BHMSQ",
+  "removedSecurity" : "BHMSQ",
+  "date" : "1997-03-17",
+  "reason" : "Market capitalization change",
+  "symbol" : "BHMSQ"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Walt Disney Co",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "DIS"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "UK",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "UK"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Ternium SA",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "TX"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Sprint Corporation",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "S"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Raytheon Technologies Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "RTX"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Procter & Gamble Co",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "PG"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "General Motors Co",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "GM"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Merck & Co Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "MRK"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Mcdonald's Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "MCD"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "JPMorgan Chase & Co",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "JPM"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "International Paper Co",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "IP"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "International Business Machines Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "IBM"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Howmet Aerospace Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "HWM"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Honeywell International Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "HON"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Goodyear Tire & Rubber Co",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "GT"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "General Electric Co",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "GE"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Foot Locker Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "FL"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Exxon Mobil Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "XOM"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "EK",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "EK"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Dupont De Nemours Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "DD"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Coca-Cola Co",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "KO"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Chevron Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CVX"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "CBS Corporation Class B",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CBS"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Caterpillar Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CAT"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Boeing Co",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "BA"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "BHMSQ",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "BHMSQ"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "AT&T Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "T"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "American Express Co",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "AXP"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "Altria Group Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "MO"
+}, {
+  "dateAdded" : "January 1, 1994",
+  "addedSecurity" : "3M Co",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1994-01-01",
+  "reason" : "Market capitalization change.",
+  "symbol" : "MMM"
+} ]
