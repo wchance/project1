@@ -1,0 +1,162 @@
+{
+  "sectorPerformance" : [ {
+    "sector" : "Aerospace & Defense",
+    "changesPercentage" : "-0.1176%"
+  }, {
+    "sector" : "Airlines",
+    "changesPercentage" : "-1.8141%"
+  }, {
+    "sector" : "Auto Components",
+    "changesPercentage" : "-1.2838%"
+  }, {
+    "sector" : "Automobiles",
+    "changesPercentage" : "-0.9886%"
+  }, {
+    "sector" : "Banking",
+    "changesPercentage" : "-1.7928%"
+  }, {
+    "sector" : "Basic Materials",
+    "changesPercentage" : "1.5511%"
+  }, {
+    "sector" : "Beverages",
+    "changesPercentage" : "-0.5683%"
+  }, {
+    "sector" : "Biotechnology",
+    "changesPercentage" : "-2.3233%"
+  }, {
+    "sector" : "Building",
+    "changesPercentage" : "-0.5512%"
+  }, {
+    "sector" : "Chemicals",
+    "changesPercentage" : "-0.2225%"
+  }, {
+    "sector" : "Commercial Services & Supplies",
+    "changesPercentage" : "-1.7963%"
+  }, {
+    "sector" : "Communication Services",
+    "changesPercentage" : "-0.2511%"
+  }, {
+    "sector" : "Communications",
+    "changesPercentage" : "-1.7001%"
+  }, {
+    "sector" : "Construction",
+    "changesPercentage" : "-1.0257%"
+  }, {
+    "sector" : "Consumer Cyclical",
+    "changesPercentage" : "-0.2953%"
+  }, {
+    "sector" : "Consumer Defensive",
+    "changesPercentage" : "-0.0148%"
+  }, {
+    "sector" : "Consumer products",
+    "changesPercentage" : "-0.5273%"
+  }, {
+    "sector" : "Distributors",
+    "changesPercentage" : "0.1720%"
+  }, {
+    "sector" : "Diversified Consumer Services",
+    "changesPercentage" : "-0.3197%"
+  }, {
+    "sector" : "Electrical Equipment",
+    "changesPercentage" : "-1.0419%"
+  }, {
+    "sector" : "Energy",
+    "changesPercentage" : "-1.2317%"
+  }, {
+    "sector" : "Financial",
+    "changesPercentage" : "-0.0756%"
+  }, {
+    "sector" : "Financial Services",
+    "changesPercentage" : "-0.0291%"
+  }, {
+    "sector" : "Food Products",
+    "changesPercentage" : "1.1777%"
+  }, {
+    "sector" : "Health Care",
+    "changesPercentage" : "0.3682%"
+  }, {
+    "sector" : "Healthcare",
+    "changesPercentage" : "-0.0277%"
+  }, {
+    "sector" : "Hotels, Restaurants & Leisure",
+    "changesPercentage" : "-1.5802%"
+  }, {
+    "sector" : "Industrial Conglomerates",
+    "changesPercentage" : "-1.2949%"
+  }, {
+    "sector" : "Industrials",
+    "changesPercentage" : "-0.2948%"
+  }, {
+    "sector" : "Insurance",
+    "changesPercentage" : "-0.9944%"
+  }, {
+    "sector" : "Leisure Products",
+    "changesPercentage" : "0.0000%"
+  }, {
+    "sector" : "Life Sciences Tools & Services",
+    "changesPercentage" : "0.9577%"
+  }, {
+    "sector" : "Logistics & Transportation",
+    "changesPercentage" : "-1.5996%"
+  }, {
+    "sector" : "Machinery",
+    "changesPercentage" : "-0.7218%"
+  }, {
+    "sector" : "Marine",
+    "changesPercentage" : "0.1886%"
+  }, {
+    "sector" : "Media",
+    "changesPercentage" : "-0.4932%"
+  }, {
+    "sector" : "Metals & Mining",
+    "changesPercentage" : "-0.8390%"
+  }, {
+    "sector" : "Packaging",
+    "changesPercentage" : "-0.4013%"
+  }, {
+    "sector" : "Paper & Forest",
+    "changesPercentage" : "-0.6881%"
+  }, {
+    "sector" : "Pharmaceuticals",
+    "changesPercentage" : "-0.3531%"
+  }, {
+    "sector" : "Professional Services",
+    "changesPercentage" : "-2.5451%"
+  }, {
+    "sector" : "Real Estate",
+    "changesPercentage" : "0.0281%"
+  }, {
+    "sector" : "Retail",
+    "changesPercentage" : "-1.0015%"
+  }, {
+    "sector" : "Road & Rail",
+    "changesPercentage" : "-1.9304%"
+  }, {
+    "sector" : "Semiconductors",
+    "changesPercentage" : "-3.3955%"
+  }, {
+    "sector" : "Services",
+    "changesPercentage" : "0.0499%"
+  }, {
+    "sector" : "Technology",
+    "changesPercentage" : "-0.3390%"
+  }, {
+    "sector" : "Telecommunication",
+    "changesPercentage" : "-0.4911%"
+  }, {
+    "sector" : "Textiles, Apparel & Luxury Goods",
+    "changesPercentage" : "-0.5492%"
+  }, {
+    "sector" : "Tobacco",
+    "changesPercentage" : "-0.2390%"
+  }, {
+    "sector" : "Trading Companies & Distributors",
+    "changesPercentage" : "-0.2105%"
+  }, {
+    "sector" : "Transportation Infrastructure",
+    "changesPercentage" : "-1.3076%"
+  }, {
+    "sector" : "Utilities",
+    "changesPercentage" : "0.0293%"
+  } ]
+}

@@ -1,0 +1,4193 @@
+[ {
+  "dateAdded" : "March 22, 2021",
+  "addedSecurity" : "",
+  "removedTicker" : "FLS",
+  "removedSecurity" : "Flowserve",
+  "date" : "2021-03-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "FLS"
+}, {
+  "dateAdded" : "March 22, 2021",
+  "addedSecurity" : "NXP Semiconductors",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2021-03-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "NXPI"
+}, {
+  "dateAdded" : "March 22, 2021",
+  "addedSecurity" : "",
+  "removedTicker" : "SLG",
+  "removedSecurity" : "SL Green Realty",
+  "date" : "2021-03-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "SLG"
+}, {
+  "dateAdded" : "March 22, 2021",
+  "addedSecurity" : "Penn National Gaming",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2021-03-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "PENN"
+}, {
+  "dateAdded" : "March 22, 2021",
+  "addedSecurity" : "",
+  "removedTicker" : "XRX",
+  "removedSecurity" : "Xerox",
+  "date" : "2021-03-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "XRX"
+}, {
+  "dateAdded" : "March 22, 2021",
+  "addedSecurity" : "Generac Holdings",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2021-03-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "GNRC"
+}, {
+  "dateAdded" : "March 22, 2021",
+  "addedSecurity" : "",
+  "removedTicker" : "VNT",
+  "removedSecurity" : "Vontier",
+  "date" : "2021-03-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "VNT"
+}, {
+  "dateAdded" : "March 22, 2021",
+  "addedSecurity" : "Caesars Entertainment",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2021-03-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CZR"
+}, {
+  "dateAdded" : "February 12, 2021",
+  "addedSecurity" : "",
+  "removedTicker" : "FTI",
+  "removedSecurity" : "TechnipFMC",
+  "date" : "2021-02-12",
+  "reason" : "TechnipFMC was removed from the S&P 500 in anticipation of its announced spin-off of Technip Energies.",
+  "symbol" : "FTI"
+}, {
+  "dateAdded" : "February 12, 2021",
+  "addedSecurity" : "Monolithic Power Systems",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2021-02-12",
+  "reason" : "TechnipFMC was removed from the S&P 500 in anticipation of its announced spin-off of Technip Energies.",
+  "symbol" : "MPWR"
+}, {
+  "dateAdded" : "January 21, 2021",
+  "addedSecurity" : "",
+  "removedTicker" : "CXO",
+  "removedSecurity" : "Concho Resources",
+  "date" : "2021-01-21",
+  "reason" : "S&P 500/100 constituent ConocoPhillips acquired Concho Resources.",
+  "symbol" : "CXO"
+}, {
+  "dateAdded" : "January 21, 2021",
+  "addedSecurity" : "Trimble Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2021-01-21",
+  "reason" : "S&P 500/100 constituent ConocoPhillips acquired Concho Resources.",
+  "symbol" : "TRMB"
+}, {
+  "dateAdded" : "January 7, 2021",
+  "addedSecurity" : "",
+  "removedTicker" : "TIF",
+  "removedSecurity" : "Tiffany & Co.",
+  "date" : "2021-01-07",
+  "reason" : "LVMH Moet Hennessy-Louis Vuitton SE acquired Tiffany & Co.",
+  "symbol" : "TIF"
+}, {
+  "dateAdded" : "January 7, 2021",
+  "addedSecurity" : "Enphase Energy",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2021-01-07",
+  "reason" : "LVMH Moet Hennessy-Louis Vuitton SE acquired Tiffany & Co.",
+  "symbol" : "ENPH"
+}, {
+  "dateAdded" : "December 21, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "AIV",
+  "removedSecurity" : "Apartment Investment & Management",
+  "date" : "2020-12-21",
+  "reason" : "Apartment Investment and Management (Aimco) spun off Apartment Income REIT.",
+  "symbol" : "AIV"
+}, {
+  "dateAdded" : "December 21, 2020",
+  "addedSecurity" : "Tesla, Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-12-21",
+  "reason" : "Apartment Investment and Management (Aimco) spun off Apartment Income REIT.",
+  "symbol" : "TSLA"
+}, {
+  "dateAdded" : "October 12, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "NBL",
+  "removedSecurity" : "Noble Energy",
+  "date" : "2020-10-12",
+  "reason" : "Chevron acquired Noble Energy.",
+  "symbol" : "NBL"
+}, {
+  "dateAdded" : "October 9, 2020",
+  "addedSecurity" : "Vontier",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-10-09",
+  "reason" : "S&P 500 constituent Fortive spun off Vontier.",
+  "symbol" : "VNT"
+}, {
+  "dateAdded" : "October 7, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "ETFC",
+  "removedSecurity" : "E*TRADE Financial",
+  "date" : "2020-10-07",
+  "reason" : "Morgan Stanley acquired E*TRADE.",
+  "symbol" : "ETFC"
+}, {
+  "dateAdded" : "October 7, 2020",
+  "addedSecurity" : "Pool Corporation",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-10-07",
+  "reason" : "Morgan Stanley acquired E*TRADE.",
+  "symbol" : "POOL"
+}, {
+  "dateAdded" : "September 21, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "HRB",
+  "removedSecurity" : "H&R Block",
+  "date" : "2020-09-21",
+  "reason" : "Market capitalization change.",
+  "symbol" : "HRB"
+}, {
+  "dateAdded" : "September 21, 2020",
+  "addedSecurity" : "Etsy",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-09-21",
+  "reason" : "Market capitalization change.",
+  "symbol" : "ETSY"
+}, {
+  "dateAdded" : "September 21, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "COTY",
+  "removedSecurity" : "Coty Inc.",
+  "date" : "2020-09-21",
+  "reason" : "Market capitalization change.",
+  "symbol" : "COTY"
+}, {
+  "dateAdded" : "September 21, 2020",
+  "addedSecurity" : "Teradyne",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-09-21",
+  "reason" : "Market capitalization change.",
+  "symbol" : "TER"
+}, {
+  "dateAdded" : "September 21, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "KSS",
+  "removedSecurity" : "Kohl's Corp.",
+  "date" : "2020-09-21",
+  "reason" : "Market capitalization change.",
+  "symbol" : "KSS"
+}, {
+  "dateAdded" : "September 21, 2020",
+  "addedSecurity" : "Catalent",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-09-21",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CTLT"
+}, {
+  "dateAdded" : "June 22, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "ADS",
+  "removedSecurity" : "Alliance Data Systems",
+  "date" : "2020-06-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "ADS"
+}, {
+  "dateAdded" : "June 22, 2020",
+  "addedSecurity" : "Bio-Rad Laboratories",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-06-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "BIO"
+}, {
+  "dateAdded" : "June 22, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "HOG",
+  "removedSecurity" : "Harley-Davidson",
+  "date" : "2020-06-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "HOG"
+}, {
+  "dateAdded" : "June 22, 2020",
+  "addedSecurity" : "Teledyne Technologies",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-06-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "TDY"
+}, {
+  "dateAdded" : "June 22, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "JWN",
+  "removedSecurity" : "Nordstrom",
+  "date" : "2020-06-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "JWN"
+}, {
+  "dateAdded" : "June 22, 2020",
+  "addedSecurity" : "Tyler Technologies",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-06-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "TYL"
+}, {
+  "dateAdded" : "May 22, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "HP",
+  "removedSecurity" : "Helmerich & Payne",
+  "date" : "2020-05-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "HP"
+}, {
+  "dateAdded" : "May 22, 2020",
+  "addedSecurity" : "West Pharmaceutical Services",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-05-22",
+  "reason" : "Market capitalization change.",
+  "symbol" : "WST"
+}, {
+  "dateAdded" : "May 12, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "CPRI",
+  "removedSecurity" : "Capri Holdings",
+  "date" : "2020-05-12",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CPRI"
+}, {
+  "dateAdded" : "May 12, 2020",
+  "addedSecurity" : "Domino's Pizza",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-05-12",
+  "reason" : "Market capitalization change.",
+  "symbol" : "DPZ"
+}, {
+  "dateAdded" : "May 12, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "AGN",
+  "removedSecurity" : "Allergan",
+  "date" : "2020-05-12",
+  "reason" : "Allergan acquired by AbbVie.",
+  "symbol" : "AGN"
+}, {
+  "dateAdded" : "May 12, 2020",
+  "addedSecurity" : "Dexcom",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-05-12",
+  "reason" : "Allergan acquired by AbbVie.",
+  "symbol" : "DXCM"
+}, {
+  "dateAdded" : "April 6, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "M",
+  "removedSecurity" : "Macy's, Inc.",
+  "date" : "2020-04-06",
+  "reason" : "Market capitalization change.",
+  "symbol" : "M"
+}, {
+  "dateAdded" : "April 6, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "RTN",
+  "removedSecurity" : "Raytheon Company",
+  "date" : "2020-04-06",
+  "reason" : "United Technologies spun off Otis and Carrier and acquired Raytheon Company.",
+  "symbol" : "RTN"
+}, {
+  "dateAdded" : "April 3, 2020",
+  "addedSecurity" : "Otis Worldwide",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-04-03",
+  "reason" : "United Technologies spun off Otis and Carrier and acquired Raytheon Company.",
+  "symbol" : "OTIS"
+}, {
+  "dateAdded" : "April 3, 2020",
+  "addedSecurity" : "Carrier Global",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-04-03",
+  "reason" : "United Technologies spun off Otis and Carrier and acquired Raytheon Company.",
+  "symbol" : "CARR"
+}, {
+  "dateAdded" : "March 3, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "XEC",
+  "removedSecurity" : "Cimarex Energy",
+  "date" : "2020-03-03",
+  "reason" : "Gardner Denver acquired Ingersoll Rand plc's industrial businesses then changed its name to the \"new\" Ingersoll Rand Inc. and later changed the ticker to IR.",
+  "symbol" : "XEC"
+}, {
+  "dateAdded" : "March 3, 2020",
+  "addedSecurity" : "Gardner Denver",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-03-03",
+  "reason" : "Gardner Denver acquired Ingersoll Rand plc's industrial businesses then changed its name to the \"new\" Ingersoll Rand Inc. and later changed the ticker to IR.",
+  "symbol" : "GDI"
+}, {
+  "dateAdded" : "January 28, 2020",
+  "addedSecurity" : "",
+  "removedTicker" : "WCG",
+  "removedSecurity" : "WellCare",
+  "date" : "2020-01-28",
+  "reason" : "S&P 500 constituent Centene Corp. (NYSE: CNC) acquired Wellcare Health Plans.",
+  "symbol" : "WCG"
+}, {
+  "dateAdded" : "January 28, 2020",
+  "addedSecurity" : "Paycom",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2020-01-28",
+  "reason" : "S&P 500 constituent Centene Corp. (NYSE: CNC) acquired Wellcare Health Plans.",
+  "symbol" : "PAYC"
+}, {
+  "dateAdded" : "December 23, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "AMG",
+  "removedSecurity" : "Affiliated Managers Group",
+  "date" : "2019-12-23",
+  "reason" : "Market capitalization change.",
+  "symbol" : "AMG"
+}, {
+  "dateAdded" : "December 23, 2019",
+  "addedSecurity" : "Live Nation Entertainment",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-12-23",
+  "reason" : "Market capitalization change.",
+  "symbol" : "LYV"
+}, {
+  "dateAdded" : "December 23, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "TRIP",
+  "removedSecurity" : "TripAdvisor",
+  "date" : "2019-12-23",
+  "reason" : "Market capitalization change.",
+  "symbol" : "TRIP"
+}, {
+  "dateAdded" : "December 23, 2019",
+  "addedSecurity" : "Zebra Technologies",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-12-23",
+  "reason" : "Market capitalization change.",
+  "symbol" : "ZBRA"
+}, {
+  "dateAdded" : "December 23, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "MAC",
+  "removedSecurity" : "Macerich",
+  "date" : "2019-12-23",
+  "reason" : "Market capitalization change.",
+  "symbol" : "MAC"
+}, {
+  "dateAdded" : "December 23, 2019",
+  "addedSecurity" : "STERIS plc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-12-23",
+  "reason" : "Market capitalization change.",
+  "symbol" : "STE"
+}, {
+  "dateAdded" : "December 9, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "STI",
+  "removedSecurity" : "SunTrust Banks",
+  "date" : "2019-12-09",
+  "reason" : "BB&T acquired SunTrust to form Truist Financial.",
+  "symbol" : "STI"
+}, {
+  "dateAdded" : "December 9, 2019",
+  "addedSecurity" : "Old Dominion Freight Line",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-12-09",
+  "reason" : "BB&T acquired SunTrust to form Truist Financial.",
+  "symbol" : "ODFL"
+}, {
+  "dateAdded" : "December 5, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "VIAB",
+  "removedSecurity" : "Viacom",
+  "date" : "2019-12-05",
+  "reason" : "CBS acquired Viacom to form ViacomCBS.",
+  "symbol" : "VIAB"
+}, {
+  "dateAdded" : "December 5, 2019",
+  "addedSecurity" : "W. R. Berkley Corporation",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-12-05",
+  "reason" : "CBS acquired Viacom to form ViacomCBS.",
+  "symbol" : "WRB"
+}, {
+  "dateAdded" : "November 21, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "CELG",
+  "removedSecurity" : "Celgene",
+  "date" : "2019-11-21",
+  "reason" : "Bristol-Myers Squibb Co. (NYSE:BMY) acquired Celgene.",
+  "symbol" : "CELG"
+}, {
+  "dateAdded" : "November 21, 2019",
+  "addedSecurity" : "ServiceNow",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-11-21",
+  "reason" : "Bristol-Myers Squibb Co. (NYSE:BMY) acquired Celgene.",
+  "symbol" : "NOW"
+}, {
+  "dateAdded" : "October 3, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "NKTR",
+  "removedSecurity" : "Nektar Therapeutics",
+  "date" : "2019-10-03",
+  "reason" : "Market capitalization change.",
+  "symbol" : "NKTR"
+}, {
+  "dateAdded" : "October 3, 2019",
+  "addedSecurity" : "Las Vegas Sands",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-10-03",
+  "reason" : "Market capitalization change.",
+  "symbol" : "LVS"
+}, {
+  "dateAdded" : "September 26, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "JEF",
+  "removedSecurity" : "Jefferies Financial Group Inc",
+  "date" : "2019-09-26",
+  "reason" : "JEF spun off SPB.",
+  "symbol" : "JEF"
+}, {
+  "dateAdded" : "September 26, 2019",
+  "addedSecurity" : "NVR Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-09-26",
+  "reason" : "JEF spun off SPB.",
+  "symbol" : "NVR"
+}, {
+  "dateAdded" : "September 23, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "TSS",
+  "removedSecurity" : "TSYS",
+  "date" : "2019-09-23",
+  "reason" : "S&P 500 constituent Global Payments Inc. (NYSE: GPN) acquired TSS.",
+  "symbol" : "TSS"
+}, {
+  "dateAdded" : "September 23, 2019",
+  "addedSecurity" : "CDW",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-09-23",
+  "reason" : "S&P 500 constituent Global Payments Inc. (NYSE: GPN) acquired TSS.",
+  "symbol" : "CDW"
+}, {
+  "dateAdded" : "August 9, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "APC",
+  "removedSecurity" : "Anadarko Petroleum",
+  "date" : "2019-08-09",
+  "reason" : "S&P 500 & 100 constituent Occidental Petroleum Corp. (NYSE:OXY) acquired Anadarko Petroleum.",
+  "symbol" : "APC"
+}, {
+  "dateAdded" : "August 9, 2019",
+  "addedSecurity" : "Leidos Holdings",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-08-09",
+  "reason" : "S&P 500 & 100 constituent Occidental Petroleum Corp. (NYSE:OXY) acquired Anadarko Petroleum.",
+  "symbol" : "LDOS"
+}, {
+  "dateAdded" : "August 9, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "FL",
+  "removedSecurity" : "Foot Locker",
+  "date" : "2019-08-09",
+  "reason" : "Market capitalization change.",
+  "symbol" : "FL"
+}, {
+  "dateAdded" : "August 9, 2019",
+  "addedSecurity" : "IDEX Corporation",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-08-09",
+  "reason" : "Market capitalization change.",
+  "symbol" : "IEX"
+}, {
+  "dateAdded" : "July 15, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "RHT",
+  "removedSecurity" : "Red Hat",
+  "date" : "2019-07-15",
+  "reason" : "S&P 500 & 100 constituent IBM acquired Red Hat.",
+  "symbol" : "RHT"
+}, {
+  "dateAdded" : "July 15, 2019",
+  "addedSecurity" : "T-Mobile US",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-07-15",
+  "reason" : "S&P 500 & 100 constituent IBM acquired Red Hat.",
+  "symbol" : "TMUS"
+}, {
+  "dateAdded" : "July 1, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "LLL",
+  "removedSecurity" : "L3 Technologies",
+  "date" : "2019-07-01",
+  "reason" : "L3 purchased by Harris Corporation",
+  "symbol" : "LLL"
+}, {
+  "dateAdded" : "July 1, 2019",
+  "addedSecurity" : "MarketAxess",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-07-01",
+  "reason" : "L3 purchased by Harris Corporation",
+  "symbol" : "MKTX"
+}, {
+  "dateAdded" : "June 7, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "MAT",
+  "removedSecurity" : "Mattel Inc",
+  "date" : "2019-06-07",
+  "reason" : "Bemis merged with Amcor; subsequently renamed to Amcor plc",
+  "symbol" : "MAT"
+}, {
+  "dateAdded" : "June 7, 2019",
+  "addedSecurity" : "Bemis Co Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-06-07",
+  "reason" : "Bemis merged with Amcor; subsequently renamed to Amcor plc",
+  "symbol" : "BMS"
+}, {
+  "dateAdded" : "June 3, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "DWDP",
+  "removedSecurity" : "DowDuPont Inc.",
+  "date" : "2019-06-03",
+  "reason" : "DWDP changed to DD after spinning off Corteva.",
+  "symbol" : "DWDP"
+}, {
+  "dateAdded" : "June 3, 2019",
+  "addedSecurity" : "DuPont de Nemours Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-06-03",
+  "reason" : "DWDP changed to DD after spinning off Corteva.",
+  "symbol" : "DD"
+}, {
+  "dateAdded" : "June 3, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "FLR",
+  "removedSecurity" : "Fluor Corporation",
+  "date" : "2019-06-03",
+  "reason" : "CTVA spun off from DWDP (which then changed symbol to DD)",
+  "symbol" : "FLR"
+}, {
+  "dateAdded" : "June 3, 2019",
+  "addedSecurity" : "Corteva",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-06-03",
+  "reason" : "CTVA spun off from DWDP (which then changed symbol to DD)",
+  "symbol" : "CTVA"
+}, {
+  "dateAdded" : "April 2, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "BHF",
+  "removedSecurity" : "Brighthouse Financial",
+  "date" : "2019-04-02",
+  "reason" : "DOW spun off from DWDP",
+  "symbol" : "BHF"
+}, {
+  "dateAdded" : "April 2, 2019",
+  "addedSecurity" : "Dow Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-04-02",
+  "reason" : "DOW spun off from DWDP",
+  "symbol" : "DOW"
+}, {
+  "dateAdded" : "February 27, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "GT",
+  "removedSecurity" : "The Goodyear Tire & Rubber Company",
+  "date" : "2019-02-27",
+  "reason" : "WAB acquired GE transportation business",
+  "symbol" : "GT"
+}, {
+  "dateAdded" : "February 27, 2019",
+  "addedSecurity" : "Wabtec Corporation",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-02-27",
+  "reason" : "WAB acquired GE transportation business",
+  "symbol" : "WAB"
+}, {
+  "dateAdded" : "February 15, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "NFX",
+  "removedSecurity" : "Newfield Exploration",
+  "date" : "2019-02-15",
+  "reason" : "ECA acquired NFX",
+  "symbol" : "NFX"
+}, {
+  "dateAdded" : "February 15, 2019",
+  "addedSecurity" : "Atmos Energy Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-02-15",
+  "reason" : "ECA acquired NFX",
+  "symbol" : "ATO"
+}, {
+  "dateAdded" : "January 18, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "PCG",
+  "removedSecurity" : "PG&E Corp",
+  "date" : "2019-01-18",
+  "reason" : "PCG filed for bankruptcy",
+  "symbol" : "PCG"
+}, {
+  "dateAdded" : "January 18, 2019",
+  "addedSecurity" : "Teleflex",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-01-18",
+  "reason" : "PCG filed for bankruptcy",
+  "symbol" : "TFX"
+}, {
+  "dateAdded" : "January 2, 2019",
+  "addedSecurity" : "",
+  "removedTicker" : "SCG",
+  "removedSecurity" : "SCANA",
+  "date" : "2019-01-02",
+  "reason" : "Dominion Energy acquired SCANA Corporation",
+  "symbol" : "SCG"
+}, {
+  "dateAdded" : "January 2, 2019",
+  "addedSecurity" : "First Republic Bank",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2019-01-02",
+  "reason" : "Dominion Energy acquired SCANA Corporation",
+  "symbol" : "FRC"
+}, {
+  "dateAdded" : "December 24, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "ESRX",
+  "removedSecurity" : "Express Scripts",
+  "date" : "2018-12-24",
+  "reason" : "S&P 500 constituent Cigna (NYSE: CI) acquired ESRX",
+  "symbol" : "ESRX"
+}, {
+  "dateAdded" : "December 24, 2018",
+  "addedSecurity" : "Celanese",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-12-24",
+  "reason" : "S&P 500 constituent Cigna (NYSE: CI) acquired ESRX",
+  "symbol" : "CE"
+}, {
+  "dateAdded" : "December 3, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "COL",
+  "removedSecurity" : "Rockwell Collins",
+  "date" : "2018-12-03",
+  "reason" : "UTX acquired COL",
+  "symbol" : "COL"
+}, {
+  "dateAdded" : "December 3, 2018",
+  "addedSecurity" : "Lamb Weston Holdings Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-12-03",
+  "reason" : "UTX acquired COL",
+  "symbol" : "LW"
+}, {
+  "dateAdded" : "December 3, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "AET",
+  "removedSecurity" : "Aetna Inc",
+  "date" : "2018-12-03",
+  "reason" : "CVS acquired Aetna",
+  "symbol" : "AET"
+}, {
+  "dateAdded" : "December 3, 2018",
+  "addedSecurity" : "Maxim Integrated Products Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-12-03",
+  "reason" : "CVS acquired Aetna",
+  "symbol" : "MXIM"
+}, {
+  "dateAdded" : "December 3, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "SRCL",
+  "removedSecurity" : "Stericycle",
+  "date" : "2018-12-03",
+  "reason" : "Market Capitalization change",
+  "symbol" : "SRCL"
+}, {
+  "dateAdded" : "December 3, 2018",
+  "addedSecurity" : "Diamondback Energy",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-12-03",
+  "reason" : "Market Capitalization change",
+  "symbol" : "FANG"
+}, {
+  "dateAdded" : "November 13, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "EQT",
+  "removedSecurity" : "EQT Corp",
+  "date" : "2018-11-13",
+  "reason" : "EQT spun off ETRN",
+  "symbol" : "EQT"
+}, {
+  "dateAdded" : "November 13, 2018",
+  "addedSecurity" : "Jack Henry & Associates",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-11-13",
+  "reason" : "EQT spun off ETRN",
+  "symbol" : "JKHY"
+}, {
+  "dateAdded" : "November 6, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "CA",
+  "removedSecurity" : "CA Inc.",
+  "date" : "2018-11-06",
+  "reason" : "CA acquired by Broadcom Inc..",
+  "symbol" : "CA"
+}, {
+  "dateAdded" : "November 6, 2018",
+  "addedSecurity" : "Keysight Technologies",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-11-06",
+  "reason" : "CA acquired by Broadcom Inc..",
+  "symbol" : "KEYS"
+}, {
+  "dateAdded" : "October 11, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "EVHC",
+  "removedSecurity" : "Envision Healthcare",
+  "date" : "2018-10-11",
+  "reason" : "EVHC acquired by Kohlberg Kravis Roberts.",
+  "symbol" : "EVHC"
+}, {
+  "dateAdded" : "October 11, 2018",
+  "addedSecurity" : "Fortinet",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-10-11",
+  "reason" : "EVHC acquired by Kohlberg Kravis Roberts.",
+  "symbol" : "FTNT"
+}, {
+  "dateAdded" : "October 1, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "ANDV",
+  "removedSecurity" : "Andeavor",
+  "date" : "2018-10-01",
+  "reason" : "ANDV acquired by Marathon Petroleum.",
+  "symbol" : "ANDV"
+}, {
+  "dateAdded" : "October 1, 2018",
+  "addedSecurity" : "Rollins Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-10-01",
+  "reason" : "ANDV acquired by Marathon Petroleum.",
+  "symbol" : "ROL"
+}, {
+  "dateAdded" : "September 14, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "XL",
+  "removedSecurity" : "XL Group",
+  "date" : "2018-09-14",
+  "reason" : "XL acquired by AXA.",
+  "symbol" : "XL"
+}, {
+  "dateAdded" : "September 14, 2018",
+  "addedSecurity" : "WellCare",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-09-14",
+  "reason" : "XL acquired by AXA.",
+  "symbol" : "WCG"
+}, {
+  "dateAdded" : "August 28, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "GGP",
+  "removedSecurity" : "GGP Inc.",
+  "date" : "2018-08-28",
+  "reason" : "GGP acquired by Brookfield Property Partners.",
+  "symbol" : "GGP"
+}, {
+  "dateAdded" : "August 28, 2018",
+  "addedSecurity" : "Arista Networks",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-08-28",
+  "reason" : "GGP acquired by Brookfield Property Partners.",
+  "symbol" : "ANET"
+}, {
+  "dateAdded" : "July 2, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "DPS",
+  "removedSecurity" : "Dr Pepper Snapple Group",
+  "date" : "2018-07-02",
+  "reason" : "DPS acquired by Keurig Green Mountain.",
+  "symbol" : "DPS"
+}, {
+  "dateAdded" : "July 2, 2018",
+  "addedSecurity" : "Copart",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-07-02",
+  "reason" : "DPS acquired by Keurig Green Mountain.",
+  "symbol" : "CPRT"
+}, {
+  "dateAdded" : "June 20, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "TWX",
+  "removedSecurity" : "Time Warner",
+  "date" : "2018-06-20",
+  "reason" : "AT&T acquired Time Warner.",
+  "symbol" : "TWX"
+}, {
+  "dateAdded" : "June 20, 2018",
+  "addedSecurity" : "FleetCor Technologies",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-06-20",
+  "reason" : "AT&T acquired Time Warner.",
+  "symbol" : "FLT"
+}, {
+  "dateAdded" : "June 18, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "RRC",
+  "removedSecurity" : "Range Resources",
+  "date" : "2018-06-18",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "RRC"
+}, {
+  "dateAdded" : "June 18, 2018",
+  "addedSecurity" : "Broadridge Financial Solutions",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-06-18",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "BR"
+}, {
+  "dateAdded" : "June 18, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "AYI",
+  "removedSecurity" : "Acuity Brands",
+  "date" : "2018-06-18",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "AYI"
+}, {
+  "dateAdded" : "June 18, 2018",
+  "addedSecurity" : "HollyFrontier",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-06-18",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "HFC"
+}, {
+  "dateAdded" : "June 7, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "MON",
+  "removedSecurity" : "Monsanto",
+  "date" : "2018-06-07",
+  "reason" : "Bayer acquired Monsanto.",
+  "symbol" : "MON"
+}, {
+  "dateAdded" : "June 7, 2018",
+  "addedSecurity" : "Twitter",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-06-07",
+  "reason" : "Bayer acquired Monsanto.",
+  "symbol" : "TWTR"
+}, {
+  "dateAdded" : "June 5, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "NAVI",
+  "removedSecurity" : "Navient Corp",
+  "date" : "2018-06-05",
+  "reason" : "Westar Energy (NYSE: WR) acquired Great Plains Energy (NYSE: GXP) and changed name to Evergy.",
+  "symbol" : "NAVI"
+}, {
+  "dateAdded" : "June 5, 2018",
+  "addedSecurity" : "Evergy",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-06-05",
+  "reason" : "Westar Energy (NYSE: WR) acquired Great Plains Energy (NYSE: GXP) and changed name to Evergy.",
+  "symbol" : "EVRG"
+}, {
+  "dateAdded" : "May 31, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "WYN",
+  "removedSecurity" : "Wyndham Worldwide",
+  "date" : "2018-05-31",
+  "reason" : "Wyndham Worldwide spun off Wyndham Hotels & Resorts Inc. (NYSE:WH).",
+  "symbol" : "WYN"
+}, {
+  "dateAdded" : "May 31, 2018",
+  "addedSecurity" : "Abiomed",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-05-31",
+  "reason" : "Wyndham Worldwide spun off Wyndham Hotels & Resorts Inc. (NYSE:WH).",
+  "symbol" : "ABMD"
+}, {
+  "dateAdded" : "April 4, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "CSRA",
+  "removedSecurity" : "CSRA Inc.",
+  "date" : "2018-04-04",
+  "reason" : "S&P 500 constituent General Dynamics Corp. (NYSE: GD) acquired CSRA.",
+  "symbol" : "CSRA"
+}, {
+  "dateAdded" : "April 4, 2018",
+  "addedSecurity" : "MSCI",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-04-04",
+  "reason" : "S&P 500 constituent General Dynamics Corp. (NYSE: GD) acquired CSRA.",
+  "symbol" : "MSCI"
+}, {
+  "dateAdded" : "March 19, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "SIG",
+  "removedSecurity" : "Signet Jewelers",
+  "date" : "2018-03-19",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "SIG"
+}, {
+  "dateAdded" : "March 19, 2018",
+  "addedSecurity" : "Take-Two Interactive",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-03-19",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "TTWO"
+}, {
+  "dateAdded" : "March 19, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "PDCO",
+  "removedSecurity" : "Patterson Companies",
+  "date" : "2018-03-19",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "PDCO"
+}, {
+  "dateAdded" : "March 19, 2018",
+  "addedSecurity" : "SVB Financial",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-03-19",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "SIVB"
+}, {
+  "dateAdded" : "March 19, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "CHK",
+  "removedSecurity" : "Chesapeake Energy",
+  "date" : "2018-03-19",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "CHK"
+}, {
+  "dateAdded" : "March 19, 2018",
+  "addedSecurity" : "Nektar Therapeutics",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-03-19",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "NKTR"
+}, {
+  "dateAdded" : "March 7, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "SNI",
+  "removedSecurity" : "Scripps Networks Interactive",
+  "date" : "2018-03-07",
+  "reason" : "Discovery Communications acquired SNI.",
+  "symbol" : "SNI"
+}, {
+  "dateAdded" : "March 7, 2018",
+  "addedSecurity" : "IPG Photonics",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-03-07",
+  "reason" : "Discovery Communications acquired SNI.",
+  "symbol" : "IPGP"
+}, {
+  "dateAdded" : "January 3, 2018",
+  "addedSecurity" : "",
+  "removedTicker" : "BCR",
+  "removedSecurity" : "CR Bard",
+  "date" : "2018-01-03",
+  "reason" : "Becton Dickinson acquired BCR.",
+  "symbol" : "BCR"
+}, {
+  "dateAdded" : "January 3, 2018",
+  "addedSecurity" : "Huntington Ingalls Industries",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2018-01-03",
+  "reason" : "Becton Dickinson acquired BCR.",
+  "symbol" : "HII"
+}, {
+  "dateAdded" : "October 13, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "LVLT",
+  "removedSecurity" : "Level 3 Communications",
+  "date" : "2017-10-13",
+  "reason" : "CenturyLink Inc acquired LVLT.",
+  "symbol" : "LVLT"
+}, {
+  "dateAdded" : "October 13, 2017",
+  "addedSecurity" : "Norwegian Cruise Line Holdings",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-10-13",
+  "reason" : "CenturyLink Inc acquired LVLT.",
+  "symbol" : "NCLH"
+}, {
+  "dateAdded" : "September 18, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "SPLS",
+  "removedSecurity" : "Staples Inc.",
+  "date" : "2017-09-18",
+  "reason" : "Sycamore Partners acquired Staples.",
+  "symbol" : "SPLS"
+}, {
+  "dateAdded" : "September 18, 2017",
+  "addedSecurity" : "Cadence Design Systems",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-09-18",
+  "reason" : "Sycamore Partners acquired Staples.",
+  "symbol" : "CDNS"
+}, {
+  "dateAdded" : "September 1, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "DOW",
+  "removedSecurity" : "The Dow Chemical Company",
+  "date" : "2017-09-01",
+  "reason" : "The Dow Chemical Company renamed to DowDuPont Inc. and ticker changed from DOW to DWDP after acquiring DuPont.",
+  "symbol" : "DOW"
+}, {
+  "dateAdded" : "September 1, 2017",
+  "addedSecurity" : "DowDuPont Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-09-01",
+  "reason" : "The Dow Chemical Company renamed to DowDuPont Inc. and ticker changed from DOW to DWDP after acquiring DuPont.",
+  "symbol" : "DWDP"
+}, {
+  "dateAdded" : "September 1, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "DD",
+  "removedSecurity" : "DuPont",
+  "date" : "2017-09-01",
+  "reason" : "The Dow Chemical Company acquired DuPont.",
+  "symbol" : "DD"
+}, {
+  "dateAdded" : "September 1, 2017",
+  "addedSecurity" : "SBA Communications",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-09-01",
+  "reason" : "The Dow Chemical Company acquired DuPont.",
+  "symbol" : "SBAC"
+}, {
+  "dateAdded" : "August 29, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "WFM",
+  "removedSecurity" : "Whole Foods Market",
+  "date" : "2017-08-29",
+  "reason" : "Amazon.com Inc. acquired Whole Foods Market.",
+  "symbol" : "WFM"
+}, {
+  "dateAdded" : "August 29, 2017",
+  "addedSecurity" : "QuintilesIMS",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-08-29",
+  "reason" : "Amazon.com Inc. acquired Whole Foods Market.",
+  "symbol" : "Q"
+}, {
+  "dateAdded" : "August 8, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "AN",
+  "removedSecurity" : "AutoNation Inc",
+  "date" : "2017-08-08",
+  "reason" : "BHF replaced AN,",
+  "symbol" : "AN"
+}, {
+  "dateAdded" : "August 8, 2017",
+  "addedSecurity" : "Brighthouse Financial Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-08-08",
+  "reason" : "BHF replaced AN,",
+  "symbol" : "BHF"
+}, {
+  "dateAdded" : "July 26, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "RIG",
+  "removedSecurity" : "Transocean",
+  "date" : "2017-07-26",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "RIG"
+}, {
+  "dateAdded" : "July 26, 2017",
+  "addedSecurity" : "Duke Realty Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-07-26",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "DRE"
+}, {
+  "dateAdded" : "July 26, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "BBBY",
+  "removedSecurity" : "Bed Bath & Beyond",
+  "date" : "2017-07-26",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "BBBY"
+}, {
+  "dateAdded" : "July 26, 2017",
+  "addedSecurity" : "A.O. Smith",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-07-26",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "AOS"
+}, {
+  "dateAdded" : "July 26, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "MUR",
+  "removedSecurity" : "Murphy Oil",
+  "date" : "2017-07-26",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "MUR"
+}, {
+  "dateAdded" : "July 26, 2017",
+  "addedSecurity" : "Packaging Corporation of America",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-07-26",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "PKG"
+}, {
+  "dateAdded" : "July 26, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "MNK",
+  "removedSecurity" : "Mallinckrodt",
+  "date" : "2017-07-26",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "MNK"
+}, {
+  "dateAdded" : "July 26, 2017",
+  "addedSecurity" : "ResMed",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-07-26",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "RMD"
+}, {
+  "dateAdded" : "July 26, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "RAI",
+  "removedSecurity" : "Reynolds American",
+  "date" : "2017-07-26",
+  "reason" : "British American Tobacco plc (NYSE MKT:BTI) acquired Reynolds American.",
+  "symbol" : "RAI"
+}, {
+  "dateAdded" : "July 26, 2017",
+  "addedSecurity" : "MGM Resorts International",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-07-26",
+  "reason" : "British American Tobacco plc (NYSE MKT:BTI) acquired Reynolds American.",
+  "symbol" : "MGM"
+}, {
+  "dateAdded" : "June 19, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "YHOO",
+  "removedSecurity" : "Yahoo! Inc.",
+  "date" : "2017-06-19",
+  "reason" : "VZ acquired YHOO operations; remainder of YHOO converted to closed-end company known as Altaba.",
+  "symbol" : "YHOO"
+}, {
+  "dateAdded" : "June 19, 2017",
+  "addedSecurity" : "Hilton Worldwide Holdings Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-06-19",
+  "reason" : "VZ acquired YHOO operations; remainder of YHOO converted to closed-end company known as Altaba.",
+  "symbol" : "HLT"
+}, {
+  "dateAdded" : "June 19, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "TDC",
+  "removedSecurity" : "Teradata Corp.",
+  "date" : "2017-06-19",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "TDC"
+}, {
+  "dateAdded" : "June 19, 2017",
+  "addedSecurity" : "Align Technology Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-06-19",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "ALGN"
+}, {
+  "dateAdded" : "June 19, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "R",
+  "removedSecurity" : "Ryder Systems Inc.",
+  "date" : "2017-06-19",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "R"
+}, {
+  "dateAdded" : "June 19, 2017",
+  "addedSecurity" : "ANSYS Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-06-19",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "ANSS"
+}, {
+  "dateAdded" : "June 19, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "MJN",
+  "removedSecurity" : "Mead Johnson",
+  "date" : "2017-06-19",
+  "reason" : "Reckitt Benckiser Group plc acquired Mead Johnson Nutrition.",
+  "symbol" : "MJN"
+}, {
+  "dateAdded" : "June 19, 2017",
+  "addedSecurity" : "Everest Re Group",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-06-19",
+  "reason" : "Reckitt Benckiser Group plc acquired Mead Johnson Nutrition.",
+  "symbol" : "RE"
+}, {
+  "dateAdded" : "June 2, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "TGNA",
+  "removedSecurity" : "Tegna, Inc.",
+  "date" : "2017-06-02",
+  "reason" : "TGNA spins off Cars.com",
+  "symbol" : "TGNA"
+}, {
+  "dateAdded" : "June 2, 2017",
+  "addedSecurity" : "IHS Markit Ltd.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-06-02",
+  "reason" : "TGNA spins off Cars.com",
+  "symbol" : "INFO"
+}, {
+  "dateAdded" : "April 5, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "DNB",
+  "removedSecurity" : "Dun & Bradstreet",
+  "date" : "2017-04-05",
+  "reason" : "IT acquiring CEB",
+  "symbol" : "DNB"
+}, {
+  "dateAdded" : "April 5, 2017",
+  "addedSecurity" : "Gartner Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-04-05",
+  "reason" : "IT acquiring CEB",
+  "symbol" : "IT"
+}, {
+  "dateAdded" : "April 4, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "SWN",
+  "removedSecurity" : "Southwestern Energy",
+  "date" : "2017-04-04",
+  "reason" : "HPE spins off Everett Inc., merged with CSC to form DXC",
+  "symbol" : "SWN"
+}, {
+  "dateAdded" : "April 4, 2017",
+  "addedSecurity" : "DXC Technology",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-04-04",
+  "reason" : "HPE spins off Everett Inc., merged with CSC to form DXC",
+  "symbol" : "DXC"
+}, {
+  "dateAdded" : "March 20, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "URBN",
+  "removedSecurity" : "Urban Outfitters",
+  "date" : "2017-03-20",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "URBN"
+}, {
+  "dateAdded" : "March 20, 2017",
+  "addedSecurity" : "Advanced Micro Devices",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-03-20",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "AMD"
+}, {
+  "dateAdded" : "March 20, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "FTR",
+  "removedSecurity" : "Frontier Communications",
+  "date" : "2017-03-20",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "FTR"
+}, {
+  "dateAdded" : "March 20, 2017",
+  "addedSecurity" : "Raymond James Financial",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-03-20",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "RJF"
+}, {
+  "dateAdded" : "March 20, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "FSLR",
+  "removedSecurity" : "First Solar",
+  "date" : "2017-03-20",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "FSLR"
+}, {
+  "dateAdded" : "March 20, 2017",
+  "addedSecurity" : "Alexandria Real Estate Equities",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-03-20",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "ARE"
+}, {
+  "dateAdded" : "March 16, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "HAR",
+  "removedSecurity" : "Harman Int'l Industries",
+  "date" : "2017-03-16",
+  "reason" : "Samsung Electronics Co. Ltd. acquired Harman International Industries.",
+  "symbol" : "HAR"
+}, {
+  "dateAdded" : "March 16, 2017",
+  "addedSecurity" : "Synopsys",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-03-16",
+  "reason" : "Samsung Electronics Co. Ltd. acquired Harman International Industries.",
+  "symbol" : "SNPS"
+}, {
+  "dateAdded" : "March 13, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "LLTC",
+  "removedSecurity" : "Linear Technology",
+  "date" : "2017-03-13",
+  "reason" : "S&P 500 constituent Analog Devices Inc. (NASD:ADI) acquired Linear Technology.",
+  "symbol" : "LLTC"
+}, {
+  "dateAdded" : "March 13, 2017",
+  "addedSecurity" : "Dish Network",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-03-13",
+  "reason" : "S&P 500 constituent Analog Devices Inc. (NASD:ADI) acquired Linear Technology.",
+  "symbol" : "DISH"
+}, {
+  "dateAdded" : "March 2, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "ENDP",
+  "removedSecurity" : "Endo International",
+  "date" : "2017-03-02",
+  "reason" : "REG acquires EQY",
+  "symbol" : "ENDP"
+}, {
+  "dateAdded" : "March 2, 2017",
+  "addedSecurity" : "Regency Centers Corporation",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-03-02",
+  "reason" : "REG acquires EQY",
+  "symbol" : "REG"
+}, {
+  "dateAdded" : "March 1, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "PBI",
+  "removedSecurity" : "Pitney Bowes Inc",
+  "date" : "2017-03-01",
+  "reason" : "CBOE acquires BATS",
+  "symbol" : "PBI"
+}, {
+  "dateAdded" : "March 1, 2017",
+  "addedSecurity" : "CBOE Holdings",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-03-01",
+  "reason" : "CBOE acquires BATS",
+  "symbol" : "CBOE"
+}, {
+  "dateAdded" : "February 28, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "SE",
+  "removedSecurity" : "Spectra Energy Corp",
+  "date" : "2017-02-28",
+  "reason" : "SE acquired by ENB",
+  "symbol" : "SE"
+}, {
+  "dateAdded" : "February 28, 2017",
+  "addedSecurity" : "Incyte",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-02-28",
+  "reason" : "SE acquired by ENB",
+  "symbol" : "INCY"
+}, {
+  "dateAdded" : "January 5, 2017",
+  "addedSecurity" : "",
+  "removedTicker" : "STJ",
+  "removedSecurity" : "St. Jude Medical",
+  "date" : "2017-01-05",
+  "reason" : "S&P 100 & 500 constituent Abbott Laboratories (NYSE:ABT) acquired St. Jude Medical.",
+  "symbol" : "STJ"
+}, {
+  "dateAdded" : "January 5, 2017",
+  "addedSecurity" : "IDEXX Laboratories",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2017-01-05",
+  "reason" : "S&P 100 & 500 constituent Abbott Laboratories (NYSE:ABT) acquired St. Jude Medical.",
+  "symbol" : "IDXX"
+}, {
+  "dateAdded" : "December 2, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "OI",
+  "removedSecurity" : "Owens-Illinois",
+  "date" : "2016-12-02",
+  "reason" : "Market capitalization changes",
+  "symbol" : "OI"
+}, {
+  "dateAdded" : "December 2, 2016",
+  "addedSecurity" : "Mid-America Apartments",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-12-02",
+  "reason" : "Market capitalization changes",
+  "symbol" : "MAA"
+}, {
+  "dateAdded" : "December 2, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "LM",
+  "removedSecurity" : "Legg Mason",
+  "date" : "2016-12-02",
+  "reason" : "Market capitalization changes",
+  "symbol" : "LM"
+}, {
+  "dateAdded" : "December 2, 2016",
+  "addedSecurity" : "Envision Healthcare",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-12-02",
+  "reason" : "Market capitalization changes",
+  "symbol" : "EVHC"
+}, {
+  "dateAdded" : "November 1, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "AA",
+  "removedSecurity" : "Alcoa Inc",
+  "date" : "2016-11-01",
+  "reason" : "AA spins off ARNC",
+  "symbol" : "AA"
+}, {
+  "dateAdded" : "November 1, 2016",
+  "addedSecurity" : "Arconic Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-11-01",
+  "reason" : "AA spins off ARNC",
+  "symbol" : "ARNC"
+}, {
+  "dateAdded" : "September 30, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "DO",
+  "removedSecurity" : "Diamond Offshore Drilling",
+  "date" : "2016-09-30",
+  "reason" : "COTY replaces DO",
+  "symbol" : "DO"
+}, {
+  "dateAdded" : "September 30, 2016",
+  "addedSecurity" : "Coty, Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-09-30",
+  "reason" : "COTY replaces DO",
+  "symbol" : "COTY"
+}, {
+  "dateAdded" : "September 22, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "HOT",
+  "removedSecurity" : "Starwood Hotels & Resorts Worldwide Inc",
+  "date" : "2016-09-22",
+  "reason" : "MAR acquires HOT",
+  "symbol" : "HOT"
+}, {
+  "dateAdded" : "September 22, 2016",
+  "addedSecurity" : "The Cooper Companies",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-09-22",
+  "reason" : "MAR acquires HOT",
+  "symbol" : "COO"
+}, {
+  "dateAdded" : "September 8, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "EMC",
+  "removedSecurity" : "EMC Corporation",
+  "date" : "2016-09-08",
+  "reason" : "Dell acquires EMC",
+  "symbol" : "EMC"
+}, {
+  "dateAdded" : "September 8, 2016",
+  "addedSecurity" : "Charter Communications",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-09-08",
+  "reason" : "Dell acquires EMC",
+  "symbol" : "CHTR"
+}, {
+  "dateAdded" : "September 6, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "JCI",
+  "removedSecurity" : "Johnson Controls Inc",
+  "date" : "2016-09-06",
+  "reason" : "TYC acquires JCI (and becomes new JCI).",
+  "symbol" : "JCI"
+}, {
+  "dateAdded" : "September 6, 2016",
+  "addedSecurity" : "Mettler Toledo",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-09-06",
+  "reason" : "TYC acquires JCI (and becomes new JCI).",
+  "symbol" : "MTD"
+}, {
+  "dateAdded" : "July 5, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "CPGX",
+  "removedSecurity" : "Columbia Pipeline Group",
+  "date" : "2016-07-05",
+  "reason" : "CPGX acquired by TRP",
+  "symbol" : "CPGX"
+}, {
+  "dateAdded" : "July 5, 2016",
+  "addedSecurity" : "Fortive Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-07-05",
+  "reason" : "CPGX acquired by TRP",
+  "symbol" : "FTV"
+}, {
+  "dateAdded" : "July 1, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "GAS",
+  "removedSecurity" : "AGL Resources",
+  "date" : "2016-07-01",
+  "reason" : "GAS acquired by SO",
+  "symbol" : "GAS"
+}, {
+  "dateAdded" : "July 1, 2016",
+  "addedSecurity" : "Alliant Energy Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-07-01",
+  "reason" : "GAS acquired by SO",
+  "symbol" : "LNT"
+}, {
+  "dateAdded" : "July 1, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "TE",
+  "removedSecurity" : "TECO Energy",
+  "date" : "2016-07-01",
+  "reason" : "TE acquired by EMA",
+  "symbol" : "TE"
+}, {
+  "dateAdded" : "July 1, 2016",
+  "addedSecurity" : "Albemarle Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-07-01",
+  "reason" : "TE acquired by EMA",
+  "symbol" : "ALB"
+}, {
+  "dateAdded" : "June 22, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "CVC",
+  "removedSecurity" : "Cablevision Systems",
+  "date" : "2016-06-22",
+  "reason" : "CVC acquired by Altice NV",
+  "symbol" : "CVC"
+}, {
+  "dateAdded" : "June 22, 2016",
+  "addedSecurity" : "Fortune Brands Home & Security",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-06-22",
+  "reason" : "CVC acquired by Altice NV",
+  "symbol" : "FBHS"
+}, {
+  "dateAdded" : "June 3, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "BXLT",
+  "removedSecurity" : "Baxalta Inc",
+  "date" : "2016-06-03",
+  "reason" : "SHPG acquiring BXLT",
+  "symbol" : "BXLT"
+}, {
+  "dateAdded" : "June 3, 2016",
+  "addedSecurity" : "TransDigm Group",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-06-03",
+  "reason" : "SHPG acquiring BXLT",
+  "symbol" : "TDG"
+}, {
+  "dateAdded" : "May 31, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "CCE",
+  "removedSecurity" : "Coca-Cola Enterprises",
+  "date" : "2016-05-31",
+  "reason" : "CCE merging with European bottlers",
+  "symbol" : "CCE"
+}, {
+  "dateAdded" : "May 31, 2016",
+  "addedSecurity" : "Arthur J. Gallagher & Co.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-05-31",
+  "reason" : "CCE merging with European bottlers",
+  "symbol" : "AJG"
+}, {
+  "dateAdded" : "May 23, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "ARG",
+  "removedSecurity" : "Airgas Inc",
+  "date" : "2016-05-23",
+  "reason" : "ARG acquired by Air Liquide",
+  "symbol" : "ARG"
+}, {
+  "dateAdded" : "May 23, 2016",
+  "addedSecurity" : "LKQ Corporation",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-05-23",
+  "reason" : "ARG acquired by Air Liquide",
+  "symbol" : "LKQ"
+}, {
+  "dateAdded" : "May 18, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "TWC",
+  "removedSecurity" : "Time Warner Cable",
+  "date" : "2016-05-18",
+  "reason" : "TWC acquired by CHTR",
+  "symbol" : "TWC"
+}, {
+  "dateAdded" : "May 18, 2016",
+  "addedSecurity" : "Digital Realty Trust Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-05-18",
+  "reason" : "TWC acquired by CHTR",
+  "symbol" : "DLR"
+}, {
+  "dateAdded" : "May 13, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "SNDK",
+  "removedSecurity" : "SanDisk Corporation",
+  "date" : "2016-05-13",
+  "reason" : "SNDK acquired by WDC",
+  "symbol" : "SNDK"
+}, {
+  "dateAdded" : "May 13, 2016",
+  "addedSecurity" : "Alaska Air Group Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-05-13",
+  "reason" : "SNDK acquired by WDC",
+  "symbol" : "ALK"
+}, {
+  "dateAdded" : "May 3, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "ADT",
+  "removedSecurity" : "ADT Corp",
+  "date" : "2016-05-03",
+  "reason" : "ADT acquired by APO",
+  "symbol" : "ADT"
+}, {
+  "dateAdded" : "May 3, 2016",
+  "addedSecurity" : "Acuity Brands Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-05-03",
+  "reason" : "ADT acquired by APO",
+  "symbol" : "AYI"
+}, {
+  "dateAdded" : "April 25, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "GME",
+  "removedSecurity" : "GameStop",
+  "date" : "2016-04-25",
+  "reason" : "Global Payments is acquiring Heartland Payment Systems",
+  "symbol" : "GME"
+}, {
+  "dateAdded" : "April 25, 2016",
+  "addedSecurity" : "Global Payments Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-04-25",
+  "reason" : "Global Payments is acquiring Heartland Payment Systems",
+  "symbol" : "GPN"
+}, {
+  "dateAdded" : "April 18, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "THC",
+  "removedSecurity" : "Tenet Healthcare",
+  "date" : "2016-04-18",
+  "reason" : "Ulta replaces Tenet",
+  "symbol" : "THC"
+}, {
+  "dateAdded" : "April 18, 2016",
+  "addedSecurity" : "Ulta Salon, Cosmetics & Fragrance Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-04-18",
+  "reason" : "Ulta replaces Tenet",
+  "symbol" : "ULTA"
+}, {
+  "dateAdded" : "April 8, 2016",
+  "addedSecurity" : "Under Armour (Class C)",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-04-08",
+  "reason" : "Under Armour distribution of second class of stock",
+  "symbol" : "UA"
+}, {
+  "dateAdded" : "April 4, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "CAM",
+  "removedSecurity" : "Cameron International",
+  "date" : "2016-04-04",
+  "reason" : "Schlumberger acquired Cameron",
+  "symbol" : "CAM"
+}, {
+  "dateAdded" : "April 4, 2016",
+  "addedSecurity" : "Foot Locker Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-04-04",
+  "reason" : "Schlumberger acquired Cameron",
+  "symbol" : "FL"
+}, {
+  "dateAdded" : "March 30, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "POM",
+  "removedSecurity" : "Pepco Holdings Inc",
+  "date" : "2016-03-30",
+  "reason" : "Exelon Corp acquired Pepco",
+  "symbol" : "POM"
+}, {
+  "dateAdded" : "March 30, 2016",
+  "addedSecurity" : "Hologic Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-03-30",
+  "reason" : "Exelon Corp acquired Pepco",
+  "symbol" : "HOLX"
+}, {
+  "dateAdded" : "March 30, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "ESV",
+  "removedSecurity" : "Ensco plc (now Valaris plc)",
+  "date" : "2016-03-30",
+  "reason" : "Centene acquired Health Net",
+  "symbol" : "ESV"
+}, {
+  "dateAdded" : "March 30, 2016",
+  "addedSecurity" : "Centene Corporation",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-03-30",
+  "reason" : "Centene acquired Health Net",
+  "symbol" : "CNC"
+}, {
+  "dateAdded" : "March 7, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "GMCR",
+  "removedSecurity" : "Keurig Green Mountain",
+  "date" : "2016-03-07",
+  "reason" : "JAB Holding Company acquired Keurig Green Mountain",
+  "symbol" : "GMCR"
+}, {
+  "dateAdded" : "March 7, 2016",
+  "addedSecurity" : "UDR, Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-03-07",
+  "reason" : "JAB Holding Company acquired Keurig Green Mountain",
+  "symbol" : "UDR"
+}, {
+  "dateAdded" : "March 4, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "CNX",
+  "removedSecurity" : "Consol Energy",
+  "date" : "2016-03-04",
+  "reason" : "AWK replaces CNX",
+  "symbol" : "CNX"
+}, {
+  "dateAdded" : "March 4, 2016",
+  "addedSecurity" : "American Water Works Company Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-03-04",
+  "reason" : "AWK replaces CNX",
+  "symbol" : "AWK"
+}, {
+  "dateAdded" : "February 22, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "PCL",
+  "removedSecurity" : "Plum Creek Timber",
+  "date" : "2016-02-22",
+  "reason" : "PCL taken over by WY",
+  "symbol" : "PCL"
+}, {
+  "dateAdded" : "February 22, 2016",
+  "addedSecurity" : "Concho Resources",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-02-22",
+  "reason" : "PCL taken over by WY",
+  "symbol" : "CXO"
+}, {
+  "dateAdded" : "February 1, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "PCP",
+  "removedSecurity" : "Precision Castparts Corp.",
+  "date" : "2016-02-01",
+  "reason" : "CFG replaces PCP",
+  "symbol" : "PCP"
+}, {
+  "dateAdded" : "February 1, 2016",
+  "addedSecurity" : "Citizens Financial Group",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-02-01",
+  "reason" : "CFG replaces PCP",
+  "symbol" : "CFG"
+}, {
+  "dateAdded" : "February 1, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "BRCM",
+  "removedSecurity" : "Broadcom Corporation",
+  "date" : "2016-02-01",
+  "reason" : "FRT replaces BRCM",
+  "symbol" : "BRCM"
+}, {
+  "dateAdded" : "February 1, 2016",
+  "addedSecurity" : "Federal Realty Investment Trust",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-02-01",
+  "reason" : "FRT replaces BRCM",
+  "symbol" : "FRT"
+}, {
+  "dateAdded" : "January 19, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "CB",
+  "removedSecurity" : "Chubb Corp",
+  "date" : "2016-01-19",
+  "reason" : "EXR replaces CB",
+  "symbol" : "CB"
+}, {
+  "dateAdded" : "January 19, 2016",
+  "addedSecurity" : "Extra Space Storage",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-01-19",
+  "reason" : "EXR replaces CB",
+  "symbol" : "EXR"
+}, {
+  "dateAdded" : "January 5, 2016",
+  "addedSecurity" : "",
+  "removedTicker" : "FOSL",
+  "removedSecurity" : "Fossil Group",
+  "date" : "2016-01-05",
+  "reason" : "WSH merges with TW (and renames to WLTW)",
+  "symbol" : "FOSL"
+}, {
+  "dateAdded" : "January 5, 2016",
+  "addedSecurity" : "Willis Towers Watson",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2016-01-05",
+  "reason" : "WSH merges with TW (and renames to WLTW)",
+  "symbol" : "WLTW"
+}, {
+  "dateAdded" : "December 29, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "ALTR",
+  "removedSecurity" : "Altera Corp",
+  "date" : "2015-12-29",
+  "reason" : "ALTR taken over by INTC",
+  "symbol" : "ALTR"
+}, {
+  "dateAdded" : "December 29, 2015",
+  "addedSecurity" : "Church & Dwight",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-12-29",
+  "reason" : "ALTR taken over by INTC",
+  "symbol" : "CHD"
+}, {
+  "dateAdded" : "December 15, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "CMCSK",
+  "removedSecurity" : "Comcast K Corp",
+  "date" : "2015-12-15",
+  "reason" : "CMCSK shares no longer listed",
+  "symbol" : "CMCSK"
+}, {
+  "dateAdded" : "December 1, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "CSC",
+  "removedSecurity" : "Computer Sciences Corp",
+  "date" : "2015-12-01",
+  "reason" : "CSC spins off CSRA",
+  "symbol" : "CSC"
+}, {
+  "dateAdded" : "December 1, 2015",
+  "addedSecurity" : "CSRA Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-12-01",
+  "reason" : "CSC spins off CSRA",
+  "symbol" : "CSRA"
+}, {
+  "dateAdded" : "November 19, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "SIAL",
+  "removedSecurity" : "Sigma-Aldrich Corp",
+  "date" : "2015-11-19",
+  "reason" : "Sigma-Aldrich acquired by Merck KGaA (MKGAY)",
+  "symbol" : "SIAL"
+}, {
+  "dateAdded" : "November 19, 2015",
+  "addedSecurity" : "Illumina Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-11-19",
+  "reason" : "Sigma-Aldrich acquired by Merck KGaA (MKGAY)",
+  "symbol" : "ILMN"
+}, {
+  "dateAdded" : "November 18, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "GNW",
+  "removedSecurity" : "Genworth Financial",
+  "date" : "2015-11-18",
+  "reason" : "GE spinning off Synchrony Financial",
+  "symbol" : "GNW"
+}, {
+  "dateAdded" : "November 18, 2015",
+  "addedSecurity" : "Synchrony Financial",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-11-18",
+  "reason" : "GE spinning off Synchrony Financial",
+  "symbol" : "SYF"
+}, {
+  "dateAdded" : "November 2, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "HCBK",
+  "removedSecurity" : "Hudson City Bancorp Inc",
+  "date" : "2015-11-02",
+  "reason" : "HPQ spins off HPE",
+  "symbol" : "HCBK"
+}, {
+  "dateAdded" : "November 2, 2015",
+  "addedSecurity" : "Hewlett Packard Enterprise",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-11-02",
+  "reason" : "HPQ spins off HPE",
+  "symbol" : "HPE"
+}, {
+  "dateAdded" : "October 7, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "JOY",
+  "removedSecurity" : "Joy Global",
+  "date" : "2015-10-07",
+  "reason" : "Market capitalization change.",
+  "symbol" : "JOY"
+}, {
+  "dateAdded" : "October 7, 2015",
+  "addedSecurity" : "Verisk Analytics",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-10-07",
+  "reason" : "Market capitalization change.",
+  "symbol" : "VRSK"
+}, {
+  "dateAdded" : "September 18, 2015",
+  "addedSecurity" : "Comcast Class K Special",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-09-18",
+  "reason" : "Share class methodology change",
+  "symbol" : "CMCSK"
+}, {
+  "dateAdded" : "September 18, 2015",
+  "addedSecurity" : "Twenty-First Century Fox Class B",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-09-18",
+  "reason" : "Share class methodology change",
+  "symbol" : "FOX"
+}, {
+  "dateAdded" : "September 18, 2015",
+  "addedSecurity" : "News Corporation Class B",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-09-18",
+  "reason" : "Share class methodology change",
+  "symbol" : "NWS"
+}, {
+  "dateAdded" : "September 2, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "HSP",
+  "removedSecurity" : "Hospira Inc",
+  "date" : "2015-09-02",
+  "reason" : "Hospira taken over",
+  "symbol" : "HSP"
+}, {
+  "dateAdded" : "September 2, 2015",
+  "addedSecurity" : "United Continental Holdings",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-09-02",
+  "reason" : "Hospira taken over",
+  "symbol" : "UAL"
+}, {
+  "dateAdded" : "August 28, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "PLL",
+  "removedSecurity" : "Pall Corp",
+  "date" : "2015-08-28",
+  "reason" : "Pall taken over",
+  "symbol" : "PLL"
+}, {
+  "dateAdded" : "August 28, 2015",
+  "addedSecurity" : "Activision Blizzard",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-08-28",
+  "reason" : "Pall taken over",
+  "symbol" : "ATVI"
+}, {
+  "dateAdded" : "July 29, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "DTV",
+  "removedSecurity" : "DirecTV",
+  "date" : "2015-07-29",
+  "reason" : "DirectTV acquired by AT&T",
+  "symbol" : "DTV"
+}, {
+  "dateAdded" : "July 29, 2015",
+  "addedSecurity" : "Signet Jewelers",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-07-29",
+  "reason" : "DirectTV acquired by AT&T",
+  "symbol" : "SIG"
+}, {
+  "dateAdded" : "July 20, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "NE",
+  "removedSecurity" : "Noble Corp",
+  "date" : "2015-07-20",
+  "reason" : "PayPal Spun off by eBay",
+  "symbol" : "NE"
+}, {
+  "dateAdded" : "July 20, 2015",
+  "addedSecurity" : "PayPal",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-07-20",
+  "reason" : "PayPal Spun off by eBay",
+  "symbol" : "PYPL"
+}, {
+  "dateAdded" : "July 8, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "FDO",
+  "removedSecurity" : "Family Dollar Stores Inc.",
+  "date" : "2015-07-08",
+  "reason" : "Family Dollar Acquired.",
+  "symbol" : "FDO"
+}, {
+  "dateAdded" : "July 8, 2015",
+  "addedSecurity" : "Advance Auto Parts",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-07-08",
+  "reason" : "Family Dollar Acquired.",
+  "symbol" : "AAP"
+}, {
+  "dateAdded" : "July 6, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "KRFT",
+  "removedSecurity" : "Kraft Foods Group",
+  "date" : "2015-07-06",
+  "reason" : "Kraft merger with Heinz.",
+  "symbol" : "KRFT"
+}, {
+  "dateAdded" : "July 6, 2015",
+  "addedSecurity" : "Kraft Heinz",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-07-06",
+  "reason" : "Kraft merger with Heinz.",
+  "symbol" : "KHC"
+}, {
+  "dateAdded" : "July 2, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "ATI",
+  "removedSecurity" : "Allegheny Technologies",
+  "date" : "2015-07-02",
+  "reason" : "Spin off of Columbia Pipeline.",
+  "symbol" : "ATI"
+}, {
+  "dateAdded" : "July 2, 2015",
+  "addedSecurity" : "Columbia Pipeline Group",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-07-02",
+  "reason" : "Spin off of Columbia Pipeline.",
+  "symbol" : "CPGX"
+}, {
+  "dateAdded" : "July 1, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "TEG",
+  "removedSecurity" : "Integrys Energy Group Inc.",
+  "date" : "2015-07-01",
+  "reason" : "Integris taken over.",
+  "symbol" : "TEG"
+}, {
+  "dateAdded" : "July 1, 2015",
+  "addedSecurity" : "J. B. Hunt",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-07-01",
+  "reason" : "Integris taken over.",
+  "symbol" : "JBHT"
+}, {
+  "dateAdded" : "July 1, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "QEP",
+  "removedSecurity" : "QEP Resources",
+  "date" : "2015-07-01",
+  "reason" : "Baxalta spun off by Baxter.",
+  "symbol" : "QEP"
+}, {
+  "dateAdded" : "July 1, 2015",
+  "addedSecurity" : "Baxalta",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-07-01",
+  "reason" : "Baxalta spun off by Baxter.",
+  "symbol" : "BXLT"
+}, {
+  "dateAdded" : "June 11, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "LO",
+  "removedSecurity" : "Lorillard Inc.",
+  "date" : "2015-06-11",
+  "reason" : "Lorillard Inc. gets acquired.",
+  "symbol" : "LO"
+}, {
+  "dateAdded" : "June 11, 2015",
+  "addedSecurity" : "Qorvo",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-06-11",
+  "reason" : "Lorillard Inc. gets acquired.",
+  "symbol" : "QRVO"
+}, {
+  "dateAdded" : "April 7, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "WIN",
+  "removedSecurity" : "Windstream Holdings Inc",
+  "date" : "2015-04-07",
+  "reason" : "Market capitalization change.",
+  "symbol" : "WIN"
+}, {
+  "dateAdded" : "April 7, 2015",
+  "addedSecurity" : "Realty Income Corporation",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-04-07",
+  "reason" : "Market capitalization change.",
+  "symbol" : "O"
+}, {
+  "dateAdded" : "March 23, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "AGN",
+  "removedSecurity" : "Allergan, Inc",
+  "date" : "2015-03-23",
+  "reason" : "Allergan acquired by Actavis plc (and changed name to Allergan plc).",
+  "symbol" : "AGN"
+}, {
+  "dateAdded" : "March 23, 2015",
+  "addedSecurity" : "American Airlines Group",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-03-23",
+  "reason" : "Allergan acquired by Actavis plc (and changed name to Allergan plc).",
+  "symbol" : "AAL"
+}, {
+  "dateAdded" : "March 23, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "DNR",
+  "removedSecurity" : "Denbury Resources",
+  "date" : "2015-03-23",
+  "reason" : "Market Capitalization Changes.",
+  "symbol" : "DNR"
+}, {
+  "dateAdded" : "March 23, 2015",
+  "addedSecurity" : "Equinix",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-03-23",
+  "reason" : "Market Capitalization Changes.",
+  "symbol" : "EQIX"
+}, {
+  "dateAdded" : "March 23, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "NBR",
+  "removedSecurity" : "Nabors Industries",
+  "date" : "2015-03-23",
+  "reason" : "Market Capitalization Changes.",
+  "symbol" : "NBR"
+}, {
+  "dateAdded" : "March 23, 2015",
+  "addedSecurity" : "SL Green Realty",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-03-23",
+  "reason" : "Market Capitalization Changes.",
+  "symbol" : "SLG"
+}, {
+  "dateAdded" : "March 23, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "AVP",
+  "removedSecurity" : "Avon Products",
+  "date" : "2015-03-23",
+  "reason" : "Market Capitalization Changes.",
+  "symbol" : "AVP"
+}, {
+  "dateAdded" : "March 23, 2015",
+  "addedSecurity" : "Hanesbrands",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-03-23",
+  "reason" : "Market Capitalization Changes.",
+  "symbol" : "HBI"
+}, {
+  "dateAdded" : "March 18, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "CFN",
+  "removedSecurity" : "Carefusion",
+  "date" : "2015-03-18",
+  "reason" : "Carefusion acquired by Becton Dickinson",
+  "symbol" : "CFN"
+}, {
+  "dateAdded" : "March 18, 2015",
+  "addedSecurity" : "Henry Schein",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-03-18",
+  "reason" : "Carefusion acquired by Becton Dickinson",
+  "symbol" : "HSIC"
+}, {
+  "dateAdded" : "March 12, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "PETM",
+  "removedSecurity" : "PetSmart Inc.",
+  "date" : "2015-03-12",
+  "reason" : "PetSmart acquired by private equity consortium",
+  "symbol" : "PETM"
+}, {
+  "dateAdded" : "March 12, 2015",
+  "addedSecurity" : "Skyworks Solutions Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-03-12",
+  "reason" : "PetSmart acquired by private equity consortium",
+  "symbol" : "SWKS"
+}, {
+  "dateAdded" : "January 27, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "SWY",
+  "removedSecurity" : "Safeway Inc",
+  "date" : "2015-01-27",
+  "reason" : "Safeway acquired by private equity consortium",
+  "symbol" : "SWY"
+}, {
+  "dateAdded" : "January 27, 2015",
+  "addedSecurity" : "HCA Holdings",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-01-27",
+  "reason" : "Safeway acquired by private equity consortium",
+  "symbol" : "HCA"
+}, {
+  "dateAdded" : "January 27, 2015",
+  "addedSecurity" : "",
+  "removedTicker" : "COV",
+  "removedSecurity" : "Covidien",
+  "date" : "2015-01-27",
+  "reason" : "Covidien acquired by Medtronic",
+  "symbol" : "COV"
+}, {
+  "dateAdded" : "January 27, 2015",
+  "addedSecurity" : "Endo International",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2015-01-27",
+  "reason" : "Covidien acquired by Medtronic",
+  "symbol" : "ENDP"
+}, {
+  "dateAdded" : "December 5, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "BMS",
+  "removedSecurity" : "Bemis Company",
+  "date" : "2014-12-05",
+  "reason" : "Market cap changes",
+  "symbol" : "BMS"
+}, {
+  "dateAdded" : "December 5, 2014",
+  "addedSecurity" : "Royal Caribbean Cruises",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-12-05",
+  "reason" : "Market cap changes",
+  "symbol" : "RCL"
+}, {
+  "dateAdded" : "November 5, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "JBL",
+  "removedSecurity" : "Jabil Circuit",
+  "date" : "2014-11-05",
+  "reason" : "Market cap changes",
+  "symbol" : "JBL"
+}, {
+  "dateAdded" : "November 5, 2014",
+  "addedSecurity" : "Level 3 Communications",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-11-05",
+  "reason" : "Market cap changes",
+  "symbol" : "LVLT"
+}, {
+  "dateAdded" : "September 20, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "BTU",
+  "removedSecurity" : "Peabody Energy",
+  "date" : "2014-09-20",
+  "reason" : "Market cap changes",
+  "symbol" : "BTU"
+}, {
+  "dateAdded" : "September 20, 2014",
+  "addedSecurity" : "United Rentals",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-09-20",
+  "reason" : "Market cap changes",
+  "symbol" : "URI"
+}, {
+  "dateAdded" : "September 20, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "GHC",
+  "removedSecurity" : "Graham Holdings",
+  "date" : "2014-09-20",
+  "reason" : "Market cap changes",
+  "symbol" : "GHC"
+}, {
+  "dateAdded" : "September 20, 2014",
+  "addedSecurity" : "Universal Health Services",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-09-20",
+  "reason" : "Market cap changes",
+  "symbol" : "UHS"
+}, {
+  "dateAdded" : "August 18, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "RDC",
+  "removedSecurity" : "Rowan Companies plc",
+  "date" : "2014-08-18",
+  "reason" : "Market cap changes",
+  "symbol" : "RDC"
+}, {
+  "dateAdded" : "August 18, 2014",
+  "addedSecurity" : "Mallinckrodt plc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-08-18",
+  "reason" : "Market cap changes",
+  "symbol" : "MNK"
+}, {
+  "dateAdded" : "August 6, 2014",
+  "addedSecurity" : "Discovery Communications",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-08-06",
+  "reason" : "Class C share distribution",
+  "symbol" : "DISCK"
+}, {
+  "dateAdded" : "July 2, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "X",
+  "removedSecurity" : "United States Steel Corporation",
+  "date" : "2014-07-02",
+  "reason" : "Market capitalization changes",
+  "symbol" : "X"
+}, {
+  "dateAdded" : "July 2, 2014",
+  "addedSecurity" : "Martin Marietta Materials",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-07-02",
+  "reason" : "Market capitalization changes",
+  "symbol" : "MLM"
+}, {
+  "dateAdded" : "July 1, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "FRX",
+  "removedSecurity" : "Forest Laboratories",
+  "date" : "2014-07-01",
+  "reason" : "Actavis acquires Forest Laboratories",
+  "symbol" : "FRX"
+}, {
+  "dateAdded" : "July 1, 2014",
+  "addedSecurity" : "Affiliated Managers Group",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-07-01",
+  "reason" : "Actavis acquires Forest Laboratories",
+  "symbol" : "AMG"
+}, {
+  "dateAdded" : "June 20, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "IGT",
+  "removedSecurity" : "International Game Technology",
+  "date" : "2014-06-20",
+  "reason" : "Market capitalization changes",
+  "symbol" : "IGT"
+}, {
+  "dateAdded" : "June 20, 2014",
+  "addedSecurity" : "Cimarex Energy",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-06-20",
+  "reason" : "Market capitalization changes",
+  "symbol" : "XEC"
+}, {
+  "dateAdded" : "May 8, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "LSI",
+  "removedSecurity" : "LSI Corporation",
+  "date" : "2014-05-08",
+  "reason" : "Avago acquires LSI",
+  "symbol" : "LSI"
+}, {
+  "dateAdded" : "May 8, 2014",
+  "addedSecurity" : "Avago Technologies",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-05-08",
+  "reason" : "Avago acquires LSI",
+  "symbol" : "AVGO"
+}, {
+  "dateAdded" : "May 1, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "BEAM",
+  "removedSecurity" : "Beam Inc.",
+  "date" : "2014-05-01",
+  "reason" : "Beam acquired by Suntory",
+  "symbol" : "BEAM"
+}, {
+  "dateAdded" : "May 1, 2014",
+  "addedSecurity" : "Under Armour (Class A)",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-05-01",
+  "reason" : "Beam acquired by Suntory",
+  "symbol" : "UAA"
+}, {
+  "dateAdded" : "May 1, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "SLM",
+  "removedSecurity" : "SLM Corporation",
+  "date" : "2014-05-01",
+  "reason" : "Navient Spun off from SLM",
+  "symbol" : "SLM"
+}, {
+  "dateAdded" : "May 1, 2014",
+  "addedSecurity" : "Navient",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-05-01",
+  "reason" : "Navient Spun off from SLM",
+  "symbol" : "NAVI"
+}, {
+  "dateAdded" : "April 3, 2014",
+  "addedSecurity" : "Google Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-04-03",
+  "reason" : "Google Class C share distribution",
+  "symbol" : "GOOGL"
+}, {
+  "dateAdded" : "April 2, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "CLF",
+  "removedSecurity" : "Cliffs Natural Resources",
+  "date" : "2014-04-02",
+  "reason" : "Market capitalization changes",
+  "symbol" : "CLF"
+}, {
+  "dateAdded" : "April 2, 2014",
+  "addedSecurity" : "Essex Property Trust Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-04-02",
+  "reason" : "Market capitalization changes",
+  "symbol" : "ESS"
+}, {
+  "dateAdded" : "March 21, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "WPX",
+  "removedSecurity" : "WPX Energy, Inc.",
+  "date" : "2014-03-21",
+  "reason" : "Market capitalization changes",
+  "symbol" : "WPX"
+}, {
+  "dateAdded" : "March 21, 2014",
+  "addedSecurity" : "Keurig Green Mountain",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-03-21",
+  "reason" : "Market capitalization changes",
+  "symbol" : "GMCR"
+}, {
+  "dateAdded" : "January 24, 2014",
+  "addedSecurity" : "",
+  "removedTicker" : "LIFE",
+  "removedSecurity" : "Life Technologies",
+  "date" : "2014-01-24",
+  "reason" : "Life Technologies acquired by Thermo Fisher Scientific Inc",
+  "symbol" : "LIFE"
+}, {
+  "dateAdded" : "January 24, 2014",
+  "addedSecurity" : "Tractor Supply Company",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2014-01-24",
+  "reason" : "Life Technologies acquired by Thermo Fisher Scientific Inc",
+  "symbol" : "TSCO"
+}, {
+  "dateAdded" : "December 23, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "ANF",
+  "removedSecurity" : "Abercrombie & Fitch",
+  "date" : "2013-12-23",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "ANF"
+}, {
+  "dateAdded" : "December 23, 2013",
+  "addedSecurity" : "Alliance Data Systems",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-12-23",
+  "reason" : "Market capitalization changes.",
+  "symbol" : "ADS"
+}, {
+  "dateAdded" : "December 23, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "JDSU",
+  "removedSecurity" : "JDS Uniphase",
+  "date" : "2013-12-23",
+  "reason" : "Market capitalization changes",
+  "symbol" : "JDSU"
+}, {
+  "dateAdded" : "December 23, 2013",
+  "addedSecurity" : "Mohawk Industries",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-12-23",
+  "reason" : "Market capitalization changes",
+  "symbol" : "MHK"
+}, {
+  "dateAdded" : "December 23, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "TER",
+  "removedSecurity" : "Teradyne",
+  "date" : "2013-12-23",
+  "reason" : "Market capitalization changes",
+  "symbol" : "TER"
+}, {
+  "dateAdded" : "December 23, 2013",
+  "addedSecurity" : "Facebook",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-12-23",
+  "reason" : "Market capitalization changes",
+  "symbol" : "FB"
+}, {
+  "dateAdded" : "December 10, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "MOLX",
+  "removedSecurity" : "Molex Inc.",
+  "date" : "2013-12-10",
+  "reason" : "MOLX acquired by Koch Industries.",
+  "symbol" : "MOLX"
+}, {
+  "dateAdded" : "December 10, 2013",
+  "addedSecurity" : "General Growth Properties",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-12-10",
+  "reason" : "MOLX acquired by Koch Industries.",
+  "symbol" : "GGP"
+}, {
+  "dateAdded" : "December 2, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "JCP",
+  "removedSecurity" : "J.C. Penney",
+  "date" : "2013-12-02",
+  "reason" : "Allegion spun off by Ingersoll Rand",
+  "symbol" : "JCP"
+}, {
+  "dateAdded" : "December 2, 2013",
+  "addedSecurity" : "Allegion",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-12-02",
+  "reason" : "Allegion spun off by Ingersoll Rand",
+  "symbol" : "ALLE"
+}, {
+  "dateAdded" : "November 13, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "NYX",
+  "removedSecurity" : "NYSE Euronext",
+  "date" : "2013-11-13",
+  "reason" : "ICE Exchange acquired NYSE Euronext",
+  "symbol" : "NYX"
+}, {
+  "dateAdded" : "November 13, 2013",
+  "addedSecurity" : "Michael Kors",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-11-13",
+  "reason" : "ICE Exchange acquired NYSE Euronext",
+  "symbol" : "KORS"
+}, {
+  "dateAdded" : "October 29, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "DELL",
+  "removedSecurity" : "Dell, Inc.",
+  "date" : "2013-10-29",
+  "reason" : "Founder Michael Dell and Silver Lake Partners acquired Dell.",
+  "symbol" : "DELL"
+}, {
+  "dateAdded" : "October 29, 2013",
+  "addedSecurity" : "Transocean",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-10-29",
+  "reason" : "Founder Michael Dell and Silver Lake Partners acquired Dell.",
+  "symbol" : "RIG"
+}, {
+  "dateAdded" : "September 20, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "AMD",
+  "removedSecurity" : "Advanced Micro Devices",
+  "date" : "2013-09-20",
+  "reason" : "Market capitalization changes",
+  "symbol" : "AMD"
+}, {
+  "dateAdded" : "September 20, 2013",
+  "addedSecurity" : "Vertex Pharmaceuticals",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-09-20",
+  "reason" : "Market capitalization changes",
+  "symbol" : "VRTX"
+}, {
+  "dateAdded" : "September 20, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "SAI",
+  "removedSecurity" : "SAIC",
+  "date" : "2013-09-20",
+  "reason" : "Market capitalization changes",
+  "symbol" : "SAI"
+}, {
+  "dateAdded" : "September 20, 2013",
+  "addedSecurity" : "Ametek",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-09-20",
+  "reason" : "Market capitalization changes",
+  "symbol" : "AME"
+}, {
+  "dateAdded" : "September 10, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "BMC",
+  "removedSecurity" : "BMC Software",
+  "date" : "2013-09-10",
+  "reason" : "BMC taken private by consortium",
+  "symbol" : "BMC"
+}, {
+  "dateAdded" : "September 10, 2013",
+  "addedSecurity" : "Delta Air Lines",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-09-10",
+  "reason" : "BMC taken private by consortium",
+  "symbol" : "DAL"
+}, {
+  "dateAdded" : "July 8, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "S",
+  "removedSecurity" : "Sprint Nextel Corp.",
+  "date" : "2013-07-08",
+  "reason" : "Softbank consortium purchase results in public float below 50%",
+  "symbol" : "S"
+}, {
+  "dateAdded" : "July 8, 2013",
+  "addedSecurity" : "Nielsen Holdings",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-07-08",
+  "reason" : "Softbank consortium purchase results in public float below 50%",
+  "symbol" : "NLSN"
+}, {
+  "dateAdded" : "June 28, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "APOL",
+  "removedSecurity" : "Apollo Group Inc.",
+  "date" : "2013-06-28",
+  "reason" : "Apollo Group's market cap more representative of a mid-cap",
+  "symbol" : "APOL"
+}, {
+  "dateAdded" : "June 28, 2013",
+  "addedSecurity" : "21st Century Fox",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-06-28",
+  "reason" : "Apollo Group's market cap more representative of a mid-cap",
+  "symbol" : "FOXA"
+}, {
+  "dateAdded" : "June 21, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "FHN",
+  "removedSecurity" : "First Horizon",
+  "date" : "2013-06-21",
+  "reason" : "Zoetis spun off by Pfizer",
+  "symbol" : "FHN"
+}, {
+  "dateAdded" : "June 21, 2013",
+  "addedSecurity" : "Zoetis",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-06-21",
+  "reason" : "Zoetis spun off by Pfizer",
+  "symbol" : "ZTS"
+}, {
+  "dateAdded" : "June 6, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "HNZ",
+  "removedSecurity" : "H. J. Heinz Company",
+  "date" : "2013-06-06",
+  "reason" : "HNZ acquired by consortium",
+  "symbol" : "HNZ"
+}, {
+  "dateAdded" : "June 6, 2013",
+  "addedSecurity" : "General Motors",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-06-06",
+  "reason" : "HNZ acquired by consortium",
+  "symbol" : "GM"
+}, {
+  "dateAdded" : "May 23, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "DF",
+  "removedSecurity" : "Dean Foods",
+  "date" : "2013-05-23",
+  "reason" : "DF too small after spinoff of White Wave Foods",
+  "symbol" : "DF"
+}, {
+  "dateAdded" : "May 23, 2013",
+  "addedSecurity" : "Kansas City Southern",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-05-23",
+  "reason" : "DF too small after spinoff of White Wave Foods",
+  "symbol" : "KSU"
+}, {
+  "dateAdded" : "May 8, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "CVH",
+  "removedSecurity" : "Coventry Health Care",
+  "date" : "2013-05-08",
+  "reason" : "Acquired by Aetna (AET)",
+  "symbol" : "CVH"
+}, {
+  "dateAdded" : "May 8, 2013",
+  "addedSecurity" : "Macerich",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-05-08",
+  "reason" : "Acquired by Aetna (AET)",
+  "symbol" : "MAC"
+}, {
+  "dateAdded" : "April 30, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "PCS",
+  "removedSecurity" : "MetroPCS",
+  "date" : "2013-04-30",
+  "reason" : "A majority of MetroPCS was acquired by T-Mobile",
+  "symbol" : "PCS"
+}, {
+  "dateAdded" : "April 30, 2013",
+  "addedSecurity" : "Regeneron Pharmaceuticals",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-04-30",
+  "reason" : "A majority of MetroPCS was acquired by T-Mobile",
+  "symbol" : "REGN"
+}, {
+  "dateAdded" : "February 15, 2013",
+  "addedSecurity" : "",
+  "removedTicker" : "BIG",
+  "removedSecurity" : "Big Lots Inc.",
+  "date" : "2013-02-15",
+  "reason" : "Market capitalization changes",
+  "symbol" : "BIG"
+}, {
+  "dateAdded" : "February 15, 2013",
+  "addedSecurity" : "PVH Corp.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2013-02-15",
+  "reason" : "Market capitalization changes",
+  "symbol" : "PVH"
+}, {
+  "dateAdded" : "December 31, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "FII",
+  "removedSecurity" : "Federated Investors",
+  "date" : "2012-12-31",
+  "reason" : "ABBV spun off from Abbott Labs (ABT)",
+  "symbol" : "FII"
+}, {
+  "dateAdded" : "December 31, 2012",
+  "addedSecurity" : "AbbVie",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-12-31",
+  "reason" : "ABBV spun off from Abbott Labs (ABT)",
+  "symbol" : "ABBV"
+}, {
+  "dateAdded" : "December 21, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "TIE",
+  "removedSecurity" : "Titanium Metals",
+  "date" : "2012-12-21",
+  "reason" : "TIE acquired by Precision Cast Parts (PCP)",
+  "symbol" : "TIE"
+}, {
+  "dateAdded" : "December 21, 2012",
+  "addedSecurity" : "Delphi Automotive",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-12-21",
+  "reason" : "TIE acquired by Precision Cast Parts (PCP)",
+  "symbol" : "DLPH"
+}, {
+  "dateAdded" : "December 11, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "RRD",
+  "removedSecurity" : "R.R. Donnelley",
+  "date" : "2012-12-11",
+  "reason" : "Market capitalization changes",
+  "symbol" : "RRD"
+}, {
+  "dateAdded" : "December 11, 2012",
+  "addedSecurity" : "Garmin Ltd.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-12-11",
+  "reason" : "Market capitalization changes",
+  "symbol" : "GRMN"
+}, {
+  "dateAdded" : "December 3, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "CBE",
+  "removedSecurity" : "Cooper Industries",
+  "date" : "2012-12-03",
+  "reason" : "Acquired by Eaton Corp. (ETN)",
+  "symbol" : "CBE"
+}, {
+  "dateAdded" : "December 3, 2012",
+  "addedSecurity" : "Dollar General",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-12-03",
+  "reason" : "Acquired by Eaton Corp. (ETN)",
+  "symbol" : "DG"
+}, {
+  "dateAdded" : "October 10, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "SUN",
+  "removedSecurity" : "Sunoco Inc.",
+  "date" : "2012-10-10",
+  "reason" : "Acquired by Energy Transfer Partners (ETP)",
+  "symbol" : "SUN"
+}, {
+  "dateAdded" : "October 10, 2012",
+  "addedSecurity" : "PetSmart, Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-10-10",
+  "reason" : "Acquired by Energy Transfer Partners (ETP)",
+  "symbol" : "PETM"
+}, {
+  "dateAdded" : "October 2, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "ANR",
+  "removedSecurity" : "Alpha Natural Resources",
+  "date" : "2012-10-02",
+  "reason" : "Kraft split into two companies",
+  "symbol" : "ANR"
+}, {
+  "dateAdded" : "October 2, 2012",
+  "addedSecurity" : "Kraft Foods Group",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-10-02",
+  "reason" : "Kraft split into two companies",
+  "symbol" : "KRFT"
+}, {
+  "dateAdded" : "October 1, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "LXK",
+  "removedSecurity" : "Lexmark Int'l Inc",
+  "date" : "2012-10-01",
+  "reason" : "Tyco spun off ADT",
+  "symbol" : "LXK"
+}, {
+  "dateAdded" : "October 1, 2012",
+  "addedSecurity" : "ADT Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-10-01",
+  "reason" : "Tyco spun off ADT",
+  "symbol" : "ADT"
+}, {
+  "dateAdded" : "October 1, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "DV",
+  "removedSecurity" : "DeVry, Inc.",
+  "date" : "2012-10-01",
+  "reason" : "Tyco spin-off merged w/Pentair",
+  "symbol" : "DV"
+}, {
+  "dateAdded" : "October 1, 2012",
+  "addedSecurity" : "Pentair Ltd.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-10-01",
+  "reason" : "Tyco spin-off merged w/Pentair",
+  "symbol" : "PNR"
+}, {
+  "dateAdded" : "September 5, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "SHLD",
+  "removedSecurity" : "Sears Holding Corporation",
+  "date" : "2012-09-05",
+  "reason" : "SHLD below public float threshold",
+  "symbol" : "SHLD"
+}, {
+  "dateAdded" : "September 5, 2012",
+  "addedSecurity" : "LyondellBasell",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-09-05",
+  "reason" : "SHLD below public float threshold",
+  "symbol" : "LYB"
+}, {
+  "dateAdded" : "July 31, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "GR",
+  "removedSecurity" : "Goodrich Corporation",
+  "date" : "2012-07-31",
+  "reason" : "Acquired by United Technologies (UTX)",
+  "symbol" : "GR"
+}, {
+  "dateAdded" : "July 31, 2012",
+  "addedSecurity" : "Ensco plc (now Valaris plc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-07-31",
+  "reason" : "Acquired by United Technologies (UTX)",
+  "symbol" : "ESV"
+}, {
+  "dateAdded" : "July 2, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "PGN",
+  "removedSecurity" : "Progress Energy Inc",
+  "date" : "2012-07-02",
+  "reason" : "Acquired by Duke Energy (DUK)",
+  "symbol" : "PGN"
+}, {
+  "dateAdded" : "July 2, 2012",
+  "addedSecurity" : "Seagate Technology",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-07-02",
+  "reason" : "Acquired by Duke Energy (DUK)",
+  "symbol" : "STX"
+}, {
+  "dateAdded" : "June 29, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "SLE",
+  "removedSecurity" : "Sara Lee Corp.",
+  "date" : "2012-06-29",
+  "reason" : "Split up of Sara Lee",
+  "symbol" : "SLE"
+}, {
+  "dateAdded" : "June 29, 2012",
+  "addedSecurity" : "Monster Beverage",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-06-29",
+  "reason" : "Split up of Sara Lee",
+  "symbol" : "MNST"
+}, {
+  "dateAdded" : "June 5, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "NVLS",
+  "removedSecurity" : "Novellus Systems",
+  "date" : "2012-06-05",
+  "reason" : "Acquired by Lam Research (LRCX)",
+  "symbol" : "NVLS"
+}, {
+  "dateAdded" : "June 5, 2012",
+  "addedSecurity" : "Lam Research",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-06-05",
+  "reason" : "Acquired by Lam Research (LRCX)",
+  "symbol" : "LRCX"
+}, {
+  "dateAdded" : "May 21, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "MMI",
+  "removedSecurity" : "Motorola Mobility",
+  "date" : "2012-05-21",
+  "reason" : "Acquired by Google (GOOG)",
+  "symbol" : "MMI"
+}, {
+  "dateAdded" : "May 21, 2012",
+  "addedSecurity" : "Alexion Pharmaceuticals",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-05-21",
+  "reason" : "Acquired by Google (GOOG)",
+  "symbol" : "ALXN"
+}, {
+  "dateAdded" : "May 17, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "EP",
+  "removedSecurity" : "El Paso Corp.",
+  "date" : "2012-05-17",
+  "reason" : "Acquired by Kinder Morgan (KMI)",
+  "symbol" : "EP"
+}, {
+  "dateAdded" : "May 17, 2012",
+  "addedSecurity" : "Kinder Morgan",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-05-17",
+  "reason" : "Acquired by Kinder Morgan (KMI)",
+  "symbol" : "KMI"
+}, {
+  "dateAdded" : "April 23, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "SVU",
+  "removedSecurity" : "Supervalu Inc.",
+  "date" : "2012-04-23",
+  "reason" : "ConocoPhillips spun off Phillips 66",
+  "symbol" : "SVU"
+}, {
+  "dateAdded" : "April 23, 2012",
+  "addedSecurity" : "Phillips 66",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-04-23",
+  "reason" : "ConocoPhillips spun off Phillips 66",
+  "symbol" : "PSX"
+}, {
+  "dateAdded" : "April 3, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "MHS",
+  "removedSecurity" : "Medco Health Solutions Inc.",
+  "date" : "2012-04-03",
+  "reason" : "Acquired by Express Scripts (ESRX)",
+  "symbol" : "MHS"
+}, {
+  "dateAdded" : "April 3, 2012",
+  "addedSecurity" : "Fossil, Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-04-03",
+  "reason" : "Acquired by Express Scripts (ESRX)",
+  "symbol" : "FOSL"
+}, {
+  "dateAdded" : "March 13, 2012",
+  "addedSecurity" : "",
+  "removedTicker" : "CEG",
+  "removedSecurity" : "Constellation Energy Group",
+  "date" : "2012-03-13",
+  "reason" : "Acquired by Exelon Corp. (EXC)",
+  "symbol" : "CEG"
+}, {
+  "dateAdded" : "March 13, 2012",
+  "addedSecurity" : "Crown Castle International Corp.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2012-03-13",
+  "reason" : "Acquired by Exelon Corp. (EXC)",
+  "symbol" : "CCI"
+}, {
+  "dateAdded" : "December 31, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "CPWR",
+  "removedSecurity" : "Compuware",
+  "date" : "2011-12-31",
+  "reason" : "Market capitalization changes",
+  "symbol" : "CPWR"
+}, {
+  "dateAdded" : "December 31, 2011",
+  "addedSecurity" : "WPX Energy, Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-12-31",
+  "reason" : "Market capitalization changes",
+  "symbol" : "WPX"
+}, {
+  "dateAdded" : "December 20, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "TLAB",
+  "removedSecurity" : "Tellabs Inc.",
+  "date" : "2011-12-20",
+  "reason" : "Expedia Inc. spun off TripAdvisor Inc.",
+  "symbol" : "TLAB"
+}, {
+  "dateAdded" : "December 20, 2011",
+  "addedSecurity" : "TripAdvisor Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-12-20",
+  "reason" : "Expedia Inc. spun off TripAdvisor Inc.",
+  "symbol" : "TRIP"
+}, {
+  "dateAdded" : "December 16, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "AKS",
+  "removedSecurity" : "AK Steel Holding Corp.",
+  "date" : "2011-12-16",
+  "reason" : "Market capitalization changes",
+  "symbol" : "AKS"
+}, {
+  "dateAdded" : "December 16, 2011",
+  "addedSecurity" : "BorgWarner Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-12-16",
+  "reason" : "Market capitalization changes",
+  "symbol" : "BWA"
+}, {
+  "dateAdded" : "December 16, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "MWW",
+  "removedSecurity" : "Monster Worldwide Inc.",
+  "date" : "2011-12-16",
+  "reason" : "Market capitalization changes",
+  "symbol" : "MWW"
+}, {
+  "dateAdded" : "December 16, 2011",
+  "addedSecurity" : "Perrigo Co.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-12-16",
+  "reason" : "Market capitalization changes",
+  "symbol" : "PRGO"
+}, {
+  "dateAdded" : "December 16, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "WFR",
+  "removedSecurity" : "MEMC Electronic Materials Inc.",
+  "date" : "2011-12-16",
+  "reason" : "Market capitalization changes",
+  "symbol" : "WFR"
+}, {
+  "dateAdded" : "December 16, 2011",
+  "addedSecurity" : "Dollar Tree Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-12-16",
+  "reason" : "Market capitalization changes",
+  "symbol" : "DLTR"
+}, {
+  "dateAdded" : "December 12, 2011",
+  "addedSecurity" : "AGL Resources Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-12-12",
+  "reason" : "Nicor acquired by AGL, which retained the GAS ticker.",
+  "symbol" : "GAS"
+}, {
+  "dateAdded" : "November 18, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "JNS",
+  "removedSecurity" : "Janus Capital Group",
+  "date" : "2011-11-18",
+  "reason" : "Janus Capital Group's market capitalization is less than $1.2 billion and is no longer representative of the large cap market space.",
+  "symbol" : "JNS"
+}, {
+  "dateAdded" : "November 18, 2011",
+  "addedSecurity" : "Cooper Industries",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-11-18",
+  "reason" : "Janus Capital Group's market capitalization is less than $1.2 billion and is no longer representative of the large cap market space.",
+  "symbol" : "CBE"
+}, {
+  "dateAdded" : "October 31, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "ITT",
+  "removedSecurity" : "ITT Corp.",
+  "date" : "2011-10-31",
+  "reason" : "Spun off from ITT Corp.",
+  "symbol" : "ITT"
+}, {
+  "dateAdded" : "October 31, 2011",
+  "addedSecurity" : "Xylem Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-10-31",
+  "reason" : "Spun off from ITT Corp.",
+  "symbol" : "XYL"
+}, {
+  "dateAdded" : "October 14, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "CEPH",
+  "removedSecurity" : "Cephalon Inc.",
+  "date" : "2011-10-14",
+  "reason" : "Acquired by Teva Pharmaceutical Industries (TEVA).",
+  "symbol" : "CEPH"
+}, {
+  "dateAdded" : "October 14, 2011",
+  "addedSecurity" : "TE Connectivity Ltd.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-10-14",
+  "reason" : "Acquired by Teva Pharmaceutical Industries (TEVA).",
+  "symbol" : "TEL"
+}, {
+  "dateAdded" : "September 23, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "NSM",
+  "removedSecurity" : "National Semiconductor Corp.",
+  "date" : "2011-09-23",
+  "reason" : "Acquired by Texas Instruments (TXN).",
+  "symbol" : "NSM"
+}, {
+  "dateAdded" : "September 23, 2011",
+  "addedSecurity" : "The Mosaic Company",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-09-23",
+  "reason" : "Acquired by Texas Instruments (TXN).",
+  "symbol" : "MOS"
+}, {
+  "dateAdded" : "July 5, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "MI",
+  "removedSecurity" : "Marshall & Iisley Corp.",
+  "date" : "2011-07-05",
+  "reason" : "Marshall & Iisley is being bought by Bank of Montreal",
+  "symbol" : "MI"
+}, {
+  "dateAdded" : "July 5, 2011",
+  "addedSecurity" : "Accenture plc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-07-05",
+  "reason" : "Marshall & Iisley is being bought by Bank of Montreal",
+  "symbol" : "ACN"
+}, {
+  "dateAdded" : "June 30, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "RSH",
+  "removedSecurity" : "RadioShack Corp.",
+  "date" : "2011-06-30",
+  "reason" : "Market capitalization adjustments.",
+  "symbol" : "RSH"
+}, {
+  "dateAdded" : "June 30, 2011",
+  "addedSecurity" : "Marathon Petroleum Corp",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-06-30",
+  "reason" : "Market capitalization adjustments.",
+  "symbol" : "MPC"
+}, {
+  "dateAdded" : "June 1, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "MEE",
+  "removedSecurity" : "Massey Energy Company",
+  "date" : "2011-06-01",
+  "reason" : "Alpha Natural Resources is acquiring Massey Energy in a deal expected to becompleted on or about that date pending final approvals.",
+  "symbol" : "MEE"
+}, {
+  "dateAdded" : "June 1, 2011",
+  "addedSecurity" : "Alpha Natural Resources, Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-06-01",
+  "reason" : "Alpha Natural Resources is acquiring Massey Energy in a deal expected to becompleted on or about that date pending final approvals.",
+  "symbol" : "ANR"
+}, {
+  "dateAdded" : "April 27, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "NOVL",
+  "removedSecurity" : "Novell, Inc.",
+  "date" : "2011-04-27",
+  "reason" : "Acquired by private equity firms.",
+  "symbol" : "NOVL"
+}, {
+  "dateAdded" : "April 27, 2011",
+  "addedSecurity" : "Chipotle Mexican Grill",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-04-27",
+  "reason" : "Acquired by private equity firms.",
+  "symbol" : "CMG"
+}, {
+  "dateAdded" : "April 1, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "GENZ",
+  "removedSecurity" : "Genzyme Corp.",
+  "date" : "2011-04-01",
+  "reason" : "Acquired by Sanofi-aventis (SNY)",
+  "symbol" : "GENZ"
+}, {
+  "dateAdded" : "April 1, 2011",
+  "addedSecurity" : "BlackRock",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-04-01",
+  "reason" : "Acquired by Sanofi-aventis (SNY)",
+  "symbol" : "BLK"
+}, {
+  "dateAdded" : "March 31, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "Q",
+  "removedSecurity" : "Qwest Communications",
+  "date" : "2011-03-31",
+  "reason" : "Acquired by CenturyLink",
+  "symbol" : "Q"
+}, {
+  "dateAdded" : "March 31, 2011",
+  "addedSecurity" : "Edwards Lifesciences",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-03-31",
+  "reason" : "Acquired by CenturyLink",
+  "symbol" : "EW"
+}, {
+  "dateAdded" : "February 28, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "MFE",
+  "removedSecurity" : "McAfee Inc.",
+  "date" : "2011-02-28",
+  "reason" : "Acquired by Intel Corp. (INTC)",
+  "symbol" : "MFE"
+}, {
+  "dateAdded" : "February 28, 2011",
+  "addedSecurity" : "Covidien plc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-02-28",
+  "reason" : "Acquired by Intel Corp. (INTC)",
+  "symbol" : "COV"
+}, {
+  "dateAdded" : "February 25, 2011",
+  "addedSecurity" : "",
+  "removedTicker" : "AYE",
+  "removedSecurity" : "Allegheny Energy Inc.",
+  "date" : "2011-02-25",
+  "reason" : "Acquired by First Energy (FE).",
+  "symbol" : "AYE"
+}, {
+  "dateAdded" : "February 25, 2011",
+  "addedSecurity" : "Joy Global Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2011-02-25",
+  "reason" : "Acquired by First Energy (FE).",
+  "symbol" : "JOY"
+}, {
+  "dateAdded" : "December 17, 2010",
+  "addedSecurity" : "",
+  "removedTicker" : "KG",
+  "removedSecurity" : "King Pharmaceuticals Inc.",
+  "date" : "2010-12-17",
+  "reason" : "Acquired by Pfizer Inc. (PFE).",
+  "symbol" : "KG"
+}, {
+  "dateAdded" : "December 17, 2010",
+  "addedSecurity" : "Cablevision Systems Corp.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2010-12-17",
+  "reason" : "Acquired by Pfizer Inc. (PFE).",
+  "symbol" : "CVC"
+}, {
+  "dateAdded" : "December 17, 2010",
+  "addedSecurity" : "",
+  "removedTicker" : "EK",
+  "removedSecurity" : "Eastman Kodak Co.",
+  "date" : "2010-12-17",
+  "reason" : "Market Cap changes.",
+  "symbol" : "EK"
+}, {
+  "dateAdded" : "December 17, 2010",
+  "addedSecurity" : "F5 Networks Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2010-12-17",
+  "reason" : "Market Cap changes.",
+  "symbol" : "FFIV"
+}, {
+  "dateAdded" : "December 17, 2010",
+  "addedSecurity" : "",
+  "removedTicker" : "ODP",
+  "removedSecurity" : "Office Depot Inc.",
+  "date" : "2010-12-17",
+  "reason" : "Market Cap changes.",
+  "symbol" : "ODP"
+}, {
+  "dateAdded" : "December 17, 2010",
+  "addedSecurity" : "Netflix Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2010-12-17",
+  "reason" : "Market Cap changes.",
+  "symbol" : "NFLX"
+}, {
+  "dateAdded" : "December 17, 2010",
+  "addedSecurity" : "",
+  "removedTicker" : "NYT",
+  "removedSecurity" : "The New York Times Co.",
+  "date" : "2010-12-17",
+  "reason" : "Market Cap changes.",
+  "symbol" : "NYT"
+}, {
+  "dateAdded" : "December 17, 2010",
+  "addedSecurity" : "Newfield Exploration",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2010-12-17",
+  "reason" : "Market Cap changes.",
+  "symbol" : "NFX"
+}, {
+  "dateAdded" : "November 17, 2010",
+  "addedSecurity" : "",
+  "removedTicker" : "PTV",
+  "removedSecurity" : "Pactiv Corp.",
+  "date" : "2010-11-17",
+  "reason" : "Reynolds Group Holding Ltd. acquired Pactiv.",
+  "symbol" : "PTV"
+}, {
+  "dateAdded" : "November 17, 2010",
+  "addedSecurity" : "Ingersoll-Rand plc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2010-11-17",
+  "reason" : "Reynolds Group Holding Ltd. acquired Pactiv.",
+  "symbol" : "IR"
+}, {
+  "dateAdded" : "August 26, 2010",
+  "addedSecurity" : "",
+  "removedTicker" : "SII",
+  "removedSecurity" : "Smith International Inc.",
+  "date" : "2010-08-26",
+  "reason" : "Acquired by Schlumberger Ltd. (SLB)",
+  "symbol" : "SII"
+}, {
+  "dateAdded" : "August 26, 2010",
+  "addedSecurity" : "Tyco International Ltd.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2010-08-26",
+  "reason" : "Acquired by Schlumberger Ltd. (SLB)",
+  "symbol" : "TYC"
+}, {
+  "dateAdded" : "July 14, 2010",
+  "addedSecurity" : "",
+  "removedTicker" : "MIL",
+  "removedSecurity" : "Millipore Inc.",
+  "date" : "2010-07-14",
+  "reason" : "Acquired by Merck KGaA (MKGAY)",
+  "symbol" : "MIL"
+}, {
+  "dateAdded" : "July 14, 2010",
+  "addedSecurity" : "Chubb Limited",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2010-07-14",
+  "reason" : "Acquired by Merck KGaA (MKGAY)",
+  "symbol" : "CB"
+}, {
+  "dateAdded" : "June 30, 2010",
+  "addedSecurity" : "",
+  "removedTicker" : "STR",
+  "removedSecurity" : "Questar",
+  "date" : "2010-06-30",
+  "reason" : "Company split. QEP retained, but ticker changed.",
+  "symbol" : "STR"
+}, {
+  "dateAdded" : "June 30, 2010",
+  "addedSecurity" : "QEP Resources",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2010-06-30",
+  "reason" : "Company split. QEP retained, but ticker changed.",
+  "symbol" : "QEP"
+}, {
+  "dateAdded" : "June 28, 2010",
+  "addedSecurity" : "",
+  "removedTicker" : "XTO",
+  "removedSecurity" : "XTO Energy Inc.",
+  "date" : "2010-06-28",
+  "reason" : "Acquired by ExxonMobil Inc. (XOM)",
+  "symbol" : "XTO"
+}, {
+  "dateAdded" : "June 28, 2010",
+  "addedSecurity" : "CarMax, Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2010-06-28",
+  "reason" : "Acquired by ExxonMobil Inc. (XOM)",
+  "symbol" : "KMX"
+}, {
+  "dateAdded" : "April 29, 2010",
+  "addedSecurity" : "",
+  "removedTicker" : "BJS",
+  "removedSecurity" : "BJ Services Company",
+  "date" : "2010-04-29",
+  "reason" : "Acquired by Baker Hughes Inc. (BHI)",
+  "symbol" : "BJS"
+}, {
+  "dateAdded" : "April 29, 2010",
+  "addedSecurity" : "Cerner Corp.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2010-04-29",
+  "reason" : "Acquired by Baker Hughes Inc. (BHI)",
+  "symbol" : "CERN"
+}, {
+  "dateAdded" : "February 26, 2010",
+  "addedSecurity" : "",
+  "removedTicker" : "RX",
+  "removedSecurity" : "IMS Health",
+  "date" : "2010-02-26",
+  "reason" : "Taken private",
+  "symbol" : "RX"
+}, {
+  "dateAdded" : "February 26, 2010",
+  "addedSecurity" : "Helmerich & Payne",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2010-02-26",
+  "reason" : "Taken private",
+  "symbol" : "HP"
+}, {
+  "dateAdded" : "December 18, 2009",
+  "addedSecurity" : "",
+  "removedTicker" : "CIEN",
+  "removedSecurity" : "Ciena",
+  "date" : "2009-12-18",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CIEN"
+}, {
+  "dateAdded" : "December 18, 2009",
+  "addedSecurity" : "Visa Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2009-12-18",
+  "reason" : "Market capitalization change.",
+  "symbol" : "V"
+}, {
+  "dateAdded" : "December 18, 2009",
+  "addedSecurity" : "",
+  "removedTicker" : "DYN",
+  "removedSecurity" : "Dynegy",
+  "date" : "2009-12-18",
+  "reason" : "Market capitalization change.",
+  "symbol" : "DYN"
+}, {
+  "dateAdded" : "December 18, 2009",
+  "addedSecurity" : "Mead Johnson Nutrition",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2009-12-18",
+  "reason" : "Market capitalization change.",
+  "symbol" : "MJN"
+}, {
+  "dateAdded" : "December 18, 2009",
+  "addedSecurity" : "",
+  "removedTicker" : "KBH",
+  "removedSecurity" : "KB Home",
+  "date" : "2009-12-18",
+  "reason" : "Market capitalization change.",
+  "symbol" : "KBH"
+}, {
+  "dateAdded" : "December 18, 2009",
+  "addedSecurity" : "Cliffs Natural Resources",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2009-12-18",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CLF"
+}, {
+  "dateAdded" : "December 18, 2009",
+  "addedSecurity" : "",
+  "removedTicker" : "CVG",
+  "removedSecurity" : "Convergys",
+  "date" : "2009-12-18",
+  "reason" : "Market capitalization change.",
+  "symbol" : "CVG"
+}, {
+  "dateAdded" : "December 18, 2009",
+  "addedSecurity" : "SAIC Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2009-12-18",
+  "reason" : "Market capitalization change.",
+  "symbol" : "SAIC"
+}, {
+  "dateAdded" : "November 3, 2009",
+  "addedSecurity" : "",
+  "removedTicker" : "SGP",
+  "removedSecurity" : "Schering-Plough Corp.",
+  "date" : "2009-11-03",
+  "reason" : "Acquired by Merck & Co. (MRK)",
+  "symbol" : "SGP"
+}, {
+  "dateAdded" : "November 3, 2009",
+  "addedSecurity" : "Priceline.com",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2009-11-03",
+  "reason" : "Acquired by Merck & Co. (MRK)",
+  "symbol" : "PCLN"
+}, {
+  "dateAdded" : "September 28, 2009",
+  "addedSecurity" : "",
+  "removedTicker" : "CBE",
+  "removedSecurity" : "Cooper Industries Ltd.",
+  "date" : "2009-09-28",
+  "reason" : "Redomesticated to Ireland",
+  "symbol" : "CBE"
+}, {
+  "dateAdded" : "September 28, 2009",
+  "addedSecurity" : "Airgas Inc",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2009-09-28",
+  "reason" : "Redomesticated to Ireland",
+  "symbol" : "ARG"
+}, {
+  "dateAdded" : "March 3, 2009",
+  "addedSecurity" : "",
+  "removedTicker" : "ACAS",
+  "removedSecurity" : "American Capital",
+  "date" : "2009-03-03",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "ACAS"
+}, {
+  "dateAdded" : "March 3, 2009",
+  "addedSecurity" : "Hormel Foods",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2009-03-03",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "HRL"
+}, {
+  "dateAdded" : "March 3, 2009",
+  "addedSecurity" : "",
+  "removedTicker" : "JNY",
+  "removedSecurity" : "Jones Apparel Group",
+  "date" : "2009-03-03",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "JNY"
+}, {
+  "dateAdded" : "March 3, 2009",
+  "addedSecurity" : "Ventas Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2009-03-03",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "VTR"
+}, {
+  "dateAdded" : "December 31, 2008",
+  "addedSecurity" : "",
+  "removedTicker" : "WB",
+  "removedSecurity" : "Wachovia Bank",
+  "date" : "2008-12-31",
+  "reason" : "Wachovia Bank acquired by Wells Fargo.",
+  "symbol" : "WB"
+}, {
+  "dateAdded" : "December 31, 2008",
+  "addedSecurity" : "Owens-Illinois",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2008-12-31",
+  "reason" : "Wachovia Bank acquired by Wells Fargo.",
+  "symbol" : "OI"
+}, {
+  "dateAdded" : "September 16, 2008",
+  "addedSecurity" : "",
+  "removedTicker" : "LEH",
+  "removedSecurity" : "Lehman Brothers",
+  "date" : "2008-09-16",
+  "reason" : "Lehman Brothers bankruptcy.",
+  "symbol" : "LEH"
+}, {
+  "dateAdded" : "September 16, 2008",
+  "addedSecurity" : "Harris Corporation",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2008-09-16",
+  "reason" : "Lehman Brothers bankruptcy.",
+  "symbol" : "HRS"
+}, {
+  "dateAdded" : "September 12, 2008",
+  "addedSecurity" : "",
+  "removedTicker" : "FRE",
+  "removedSecurity" : "Freddie Mac",
+  "date" : "2008-09-12",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "FRE"
+}, {
+  "dateAdded" : "September 12, 2008",
+  "addedSecurity" : "Salesforce.com",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2008-09-12",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "CRM"
+}, {
+  "dateAdded" : "September 12, 2008",
+  "addedSecurity" : "",
+  "removedTicker" : "FNM",
+  "removedSecurity" : "Fannie Mae",
+  "date" : "2008-09-12",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "FNM"
+}, {
+  "dateAdded" : "September 12, 2008",
+  "addedSecurity" : "Fastenal",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2008-09-12",
+  "reason" : "Capitalization rebalance.",
+  "symbol" : "FAST"
+}, {
+  "dateAdded" : "June 10, 2008",
+  "addedSecurity" : "",
+  "removedTicker" : "ABK",
+  "removedSecurity" : "Ambac Financial",
+  "date" : "2008-06-10",
+  "reason" : "Market Value Decline",
+  "symbol" : "ABK"
+}, {
+  "dateAdded" : "June 10, 2008",
+  "addedSecurity" : "Lorillard Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2008-06-10",
+  "reason" : "Market Value Decline",
+  "symbol" : "LO"
+}, {
+  "dateAdded" : "December 20, 2007",
+  "addedSecurity" : "",
+  "removedTicker" : "TRB",
+  "removedSecurity" : "Tribune Co.",
+  "date" : "2007-12-20",
+  "reason" : "Taken private",
+  "symbol" : "TRB"
+}, {
+  "dateAdded" : "December 20, 2007",
+  "addedSecurity" : "Range Resources",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2007-12-20",
+  "reason" : "Taken private",
+  "symbol" : "RRC"
+}, {
+  "dateAdded" : "December 13, 2007",
+  "addedSecurity" : "",
+  "removedTicker" : "DJ",
+  "removedSecurity" : "Dow Jones",
+  "date" : "2007-12-13",
+  "reason" : "Acquired by News Corp.",
+  "symbol" : "DJ"
+}, {
+  "dateAdded" : "December 13, 2007",
+  "addedSecurity" : "GameStop",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2007-12-13",
+  "reason" : "Acquired by News Corp.",
+  "symbol" : "GME"
+}, {
+  "dateAdded" : "October 26, 2007",
+  "addedSecurity" : "",
+  "removedTicker" : "AV",
+  "removedSecurity" : "Avaya Inc.",
+  "date" : "2007-10-26",
+  "reason" : "Taken private",
+  "symbol" : "AV"
+}, {
+  "dateAdded" : "October 26, 2007",
+  "addedSecurity" : "Jacobs Engineering Group",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2007-10-26",
+  "reason" : "Taken private",
+  "symbol" : "JEC"
+}, {
+  "dateAdded" : "October 2, 2007",
+  "addedSecurity" : "",
+  "removedTicker" : "SLR",
+  "removedSecurity" : "Solectron",
+  "date" : "2007-10-02",
+  "reason" : "Solectron acquired by Flextronics.",
+  "symbol" : "SLR"
+}, {
+  "dateAdded" : "October 2, 2007",
+  "addedSecurity" : "Expedia, Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2007-10-02",
+  "reason" : "Solectron acquired by Flextronics.",
+  "symbol" : "EXPE"
+}, {
+  "dateAdded" : "October 1, 2007",
+  "addedSecurity" : "",
+  "removedTicker" : "NCR",
+  "removedSecurity" : "NCR Corp.",
+  "date" : "2007-10-01",
+  "reason" : "Teradata spun off by NCR Corp.",
+  "symbol" : "NCR"
+}, {
+  "dateAdded" : "October 1, 2007",
+  "addedSecurity" : "Teradata Corp.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2007-10-01",
+  "reason" : "Teradata spun off by NCR Corp.",
+  "symbol" : "TDC"
+}, {
+  "dateAdded" : "September 27, 2007",
+  "addedSecurity" : "",
+  "removedTicker" : "MXIM",
+  "removedSecurity" : "Maxim Integrated Products",
+  "date" : "2007-09-27",
+  "reason" : "MXIM delisted from NASDAQ exchange.",
+  "symbol" : "MXIM"
+}, {
+  "dateAdded" : "September 27, 2007",
+  "addedSecurity" : "Tesoro Corp.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2007-09-27",
+  "reason" : "MXIM delisted from NASDAQ exchange.",
+  "symbol" : "TSO"
+}, {
+  "dateAdded" : "September 26, 2007",
+  "addedSecurity" : "",
+  "removedTicker" : "FDC",
+  "removedSecurity" : "First Data Corp.",
+  "date" : "2007-09-26",
+  "reason" : "FDC acquired by Kohlberg Kravis Roberts.",
+  "symbol" : "FDC"
+}, {
+  "dateAdded" : "September 26, 2007",
+  "addedSecurity" : "Intercontinental Exchange",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2007-09-26",
+  "reason" : "FDC acquired by Kohlberg Kravis Roberts.",
+  "symbol" : "ICE"
+}, {
+  "dateAdded" : "August 24, 2007",
+  "addedSecurity" : "",
+  "removedTicker" : "KSE",
+  "removedSecurity" : "KeySpan",
+  "date" : "2007-08-24",
+  "reason" : "Acquired by National Grid plc",
+  "symbol" : "KSE"
+}, {
+  "dateAdded" : "August 24, 2007",
+  "addedSecurity" : "Leucadia National",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2007-08-24",
+  "reason" : "Acquired by National Grid plc",
+  "symbol" : "LUK"
+}, {
+  "dateAdded" : "March 30, 2007",
+  "addedSecurity" : "",
+  "removedTicker" : "TSG",
+  "removedSecurity" : "Sabre Holdings",
+  "date" : "2007-03-30",
+  "reason" : "Taken Private",
+  "symbol" : "TSG"
+}, {
+  "dateAdded" : "March 30, 2007",
+  "addedSecurity" : "Kraft Foods",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2007-03-30",
+  "reason" : "Taken Private",
+  "symbol" : "KFT"
+}, {
+  "dateAdded" : "January 10, 2007",
+  "addedSecurity" : "",
+  "removedTicker" : "SBL",
+  "removedSecurity" : "Symbol Technologies",
+  "date" : "2007-01-10",
+  "reason" : "Acquired by Motorola",
+  "symbol" : "SBL"
+}, {
+  "dateAdded" : "January 10, 2007",
+  "addedSecurity" : "AvalonBay Communities, Inc.",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2007-01-10",
+  "reason" : "Acquired by Motorola",
+  "symbol" : "AVB"
+}, {
+  "dateAdded" : "June 2, 2006",
+  "addedSecurity" : "",
+  "removedTicker" : "ABS",
+  "removedSecurity" : "Albertsons",
+  "date" : "2006-06-02",
+  "reason" : "Albertsons acquired by SuperValu and CVS Corp.",
+  "symbol" : "ABS"
+}, {
+  "dateAdded" : "June 2, 2006",
+  "addedSecurity" : "Juniper Networks",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2006-06-02",
+  "reason" : "Albertsons acquired by SuperValu and CVS Corp.",
+  "symbol" : "JNPR"
+}, {
+  "dateAdded" : "July 1, 2005",
+  "addedSecurity" : "",
+  "removedTicker" : "GLK",
+  "removedSecurity" : "Great Lakes Chemical",
+  "date" : "2005-07-01",
+  "reason" : "Acquired by Crompton Corp.",
+  "symbol" : "GLK"
+}, {
+  "dateAdded" : "July 1, 2005",
+  "addedSecurity" : "Constellation Brands",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2005-07-01",
+  "reason" : "Acquired by Crompton Corp.",
+  "symbol" : "STZ"
+}, {
+  "dateAdded" : "September 25, 2003",
+  "addedSecurity" : "",
+  "removedTicker" : "QTRN",
+  "removedSecurity" : "Quintiles Transnational",
+  "date" : "2003-09-25",
+  "reason" : "Taken private",
+  "symbol" : "QTRN"
+}, {
+  "dateAdded" : "September 25, 2003",
+  "addedSecurity" : "Express Scripts",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2003-09-25",
+  "reason" : "Taken private",
+  "symbol" : "ESRX"
+}, {
+  "dateAdded" : "December 5, 2000",
+  "addedSecurity" : "",
+  "removedTicker" : "BS",
+  "removedSecurity" : "Bethlehem Steel",
+  "date" : "2000-12-05",
+  "reason" : "Market Cap changes.",
+  "symbol" : "BS"
+}, {
+  "dateAdded" : "December 5, 2000",
+  "addedSecurity" : "Intuit",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2000-12-05",
+  "reason" : "Market Cap changes.",
+  "symbol" : "INTU"
+}, {
+  "dateAdded" : "December 5, 2000",
+  "addedSecurity" : "",
+  "removedTicker" : "OI",
+  "removedSecurity" : "Owens-Illinois",
+  "date" : "2000-12-05",
+  "reason" : "Market Cap changes.",
+  "symbol" : "OI"
+}, {
+  "dateAdded" : "December 5, 2000",
+  "addedSecurity" : "Symbol Technologies",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2000-12-05",
+  "reason" : "Market Cap changes.",
+  "symbol" : "SBL"
+}, {
+  "dateAdded" : "December 5, 2000",
+  "addedSecurity" : "",
+  "removedTicker" : "GRA",
+  "removedSecurity" : "W.R. Grace",
+  "date" : "2000-12-05",
+  "reason" : "Market Cap changes.",
+  "symbol" : "GRA"
+}, {
+  "dateAdded" : "December 5, 2000",
+  "addedSecurity" : "Allegheny Energy",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2000-12-05",
+  "reason" : "Market Cap changes.",
+  "symbol" : "AYE"
+}, {
+  "dateAdded" : "December 5, 2000",
+  "addedSecurity" : "",
+  "removedTicker" : "CCK",
+  "removedSecurity" : "Crown Holdings",
+  "date" : "2000-12-05",
+  "reason" : "Market Cap changes.",
+  "symbol" : "CCK"
+}, {
+  "dateAdded" : "December 5, 2000",
+  "addedSecurity" : "Ambac Financial",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2000-12-05",
+  "reason" : "Market Cap changes.",
+  "symbol" : "ABK"
+}, {
+  "dateAdded" : "July 27, 2000",
+  "addedSecurity" : "",
+  "removedTicker" : "RAD",
+  "removedSecurity" : "RiteAid",
+  "date" : "2000-07-27",
+  "reason" : "Market Cap change.",
+  "symbol" : "RAD"
+}, {
+  "dateAdded" : "July 27, 2000",
+  "addedSecurity" : "JDS Uniphase",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "2000-07-27",
+  "reason" : "Market Cap change.",
+  "symbol" : "JDSU"
+}, {
+  "dateAdded" : "December 7, 1999",
+  "addedSecurity" : "",
+  "removedTicker" : "LDW",
+  "removedSecurity" : "Laidlaw",
+  "date" : "1999-12-07",
+  "reason" : "Market Cap change.",
+  "symbol" : "LDW"
+}, {
+  "dateAdded" : "December 7, 1999",
+  "addedSecurity" : "Yahoo!",
+  "removedTicker" : "",
+  "removedSecurity" : "",
+  "date" : "1999-12-07",
+  "reason" : "Market Cap change.",
+  "symbol" : "YHOO"
+} ]
