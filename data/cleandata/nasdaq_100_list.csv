@@ -1,0 +1,103 @@
+symbol,name,sector,subSector,headQuarter,dateFirstAdded,cik,founded,marketcap
+DOCU,DocuSign Inc,Technology,Technology,"San Francisco, CALIFORNIA",2020-06-22,1261333.0,2018-04-27,44008803833
+ZM,Zoom Video Communications Inc,Communication Services,Communication Services,"San Jose, CALIFORNIA",2020-04-30,1585521.0,2019-04-18,99917833870
+DXCM,DexCom Inc,Healthcare,Healthcare,"San Diego, CALIFORNIA",2020-04-20,1093557.0,2005-04-14,38271141042
+SPLK,Splunk Inc,Technology,Technology,"San Francisco, CALIFORNIA",2019-12-23,1353283.0,2012-04-19,24038896230
+SGEN,Seattle Genetics Inc,Healthcare,Healthcare,"Bothell, WASHINGTON",2019-12-23,1060736.0,2001-03-07,26106194225
+CDW,CDW Corp,Technology,Technology,"Vernon Hills, ILLINOIS",2019-12-23,1402057.0,2013-06-27,26236983015
+INTC,Intel Corp,Technology,Technology,"Santa Clara, CALIFORNIA",1997-12-02,50863.0,1971-10-13,267817367643
+XEL,Xcel Energy Inc,Utilities,Utilities,"Minneapolis, MINNESOTA",2018-11-19,72903.0,1949-02-28,36938879472
+GILD,Gilead Sciences Inc,Healthcare,Healthcare,"Foster City, CALIFORNIA",2001-10-04,882095.0,1992-01-01,82541346235
+CHTR,Charter Communications Inc,Communication Services,Communication Services,"Stamford, CONNECTICUT",2001-12-24,1091667.0,2009-12-02,134881555212
+ASML,ASML Holding N.V.,Technology,Technology,,2017-12-18,,,269742020342
+FISV,Fiserv Inc,Technology,Technology,"Brookfield, WISCONSIN",1997-12-02,798354.0,1986-09-25,85511035318
+AMAT,Applied Materials Inc,Technology,Technology,"Santa Clara, CALIFORNIA",1997-12-02,6951.0,1972-10-05,124329253699
+MXIM,Maxim Integrated Products Inc,Technology,Technology,"San Jose, CALIFORNIA",1997-12-02,743316.0,1994-01-01,25750800929
+MU,Micron Technology Inc,Technology,Technology,"Boise, IDAHO",2010-12-20,723125.0,1984-06-01,102095366607
+CTSH,Cognizant Technology Solutions Corp,Technology,Technology,"Teaneck, NEW JERSEY",2004-12-29,1058290.0,1998-06-24,43235338374
+PCAR,Paccar Inc,Industrials,Industrials,"Bellevue, WASHINGTON",1997-12-02,75362.0,1980-03-17,33070439652
+PYPL,PayPal Holdings Inc,Financial Services,Financial Services,"San Jose, CALIFORNIA",2015-11-11,1633917.0,2015-07-06,326060000000
+INCY,Incyte Corp,Healthcare,Healthcare,"Wilmington, DELAWARE",2015-10-07,879169.0,1991-04-08,18202828143
+JD,JD.com Inc.,Consumer Cyclical,Consumer Cyclical,,2015-07-30,1549802.0,,124174079765
+WBA,Walgreens Boots Alliance Inc,Healthcare,Healthcare,"Deerfield, ILLINOIS",2015-03-23,1618921.0,2014-12-31,46483916865
+COST,Costco Wholesale Corp,Consumer Defensive,Consumer Defensive,"Issaquah, WASHINGTON",1997-12-02,909832.0,1985-12-05,163929381866
+GOOG,Alphabet Inc.,Communication Services,Communication Services,"Mountain View, CA",2014-04-03,1652044.0,,1568547523438
+NXPI,NXP Semiconductors NV,Technology,Technology,"Eindhoven, NOORD-BRABANT",2013-12-23,1413447.0,2010-08-06,57556507801
+TSLA,Tesla Inc,Consumer Cyclical,Consumer Cyclical,"Palo Alto, CALIFORNIA",2013-07-15,1318605.0,2010-06-29,800174524008
+REGN,Regeneron Pharmaceuticals Inc,Healthcare,Healthcare,"Tarrytown, NEW YORK",2012-12-24,872589.0,1991-01-01,55498609683
+FB,Facebook Inc,Communication Services,Communication Services,"Menlo Park, CALIFORNIA",2012-12-12,1326801.0,2012-05-18,889907640236
+TXN,Texas Instruments Inc,Technology,Technology,"Dallas, TEXAS",2012-04-23,97476.0,1953-10-01,180034438136
+TCOM,Trip.com Group Ltd,Consumer Cyclical,Consumer Cyclical,"Shanghai, SHANGHAI",2010-12-20,1269238.0,2003-12-09,21989805204
+CHKP,Check Point Software Technologies Ltd,Technology,Technology,"TEL AVIV-YAFO, ",2000-12-18,1015922.0,1996-06-28,16716117141
+CERN,Cerner Corp,Healthcare,Healthcare,"Kansas City, MISSOURI",2009-07-20,804753.0,1986-12-05,22785159762
+EA,Electronic Arts Inc,Communication Services,Communication Services,"Redwood City, CALIFORNIA",1997-12-02,712515.0,1989-01-09,41688841168
+INTU,Intuit Inc,Technology,Technology,"Mountain View, CALIFORNIA",1997-12-02,896878.0,1993-03-12,113993879454
+ADP,Automatic Data Processing Inc,Industrials,Industrials,"Roseland, NEW JERSEY",2008-12-23,8670.0,1961-09-01,82320809571
+VRTX,Vertex Pharmaceuticals Inc,Healthcare,Healthcare,"Boston, MASSACHUSETTS",2006-12-18,875320.0,1991-07-24,58387868484
+ISRG,Intuitive Surgical Inc,Healthcare,Healthcare,"Sunnyvale, CALIFORNIA",2006-02-01,1035267.0,2006-06-01,97049228502
+CMCSA,Comcast Corp,Communication Services,Communication Services,"Philadelphia, PENNSYLVANIA",2002-11-20,1166691.0,2001-12-07,250559915372
+AMZN,Amazon.com Inc,Consumer Cyclical,Consumer Cyclical,"Seattle, WASHINGTON",1998-12-21,1018724.0,1997-05-01,1733473215144
+SBUX,Starbucks Corp,Consumer Cyclical,Consumer Cyclical,"Seattle, WASHINGTON",1997-12-02,829224.0,1992-06-01,137542144716
+BIIB,Biogen Inc,Healthcare,Healthcare,"Cambridge, MASSACHUSETTS",2000-12-18,875045.0,1991-09-17,42432036313
+VRSN,Verisign Inc,Technology,Technology,"Reston, VIRGINIA",2000-06-09,1014473.0,1998-01-29,23921594723
+DLTR,Dollar Tree Inc,Consumer Defensive,Consumer Defensive,"Chesapeake, VIRGINIA",1998-12-21,935703.0,1995-03-06,27768845288
+XLNX,Xilinx Inc,Technology,Technology,"San Jose, CALIFORNIA",1997-12-02,743988.0,1990-06-01,31984696175
+SNPS,Synopsys Inc,Technology,Technology,"Mountain View, CALIFORNIA",1997-12-02,883241.0,1992-02-26,41227020796
+ROST,Ross Stores Inc,Consumer Cyclical,Consumer Cyclical,"Dublin California, CALIFORNIA",1997-12-02,745732.0,1985-08-08,45749767471
+MSFT,Microsoft Corp,Technology,Technology,"Redmond, WASHINGTON",1997-12-02,789019.0,1986-03-13,1976352000000
+MCHP,Microchip Technology Inc,Technology,Technology,"Chandler, ARIZONA",1997-12-02,827054.0,1993-03-19,44179667449
+IDXX,IDEXX Laboratories Inc,Healthcare,Healthcare,"Westbrook, MAINE",1997-12-02,874716.0,1991-06-21,45925289751
+FAST,Fastenal Co,Industrials,Industrials,"Winona, MINNESOTA",1997-12-02,815556.0,1987-08-01,28918820426
+CTAS,Cintas Corp,Industrials,Industrials,"Cincinnati, OHIO",1997-12-02,723254.0,1983-01-01,37694408333
+AAPL,Apple Inc,Technology,Technology,"Cupertino, CALIFORNIA",1997-12-02,320193.0,1980-12-12,2301791036000
+AMGN,Amgen Inc,Healthcare,Healthcare,"Thousand Oaks, CALIFORNIA",1997-12-02,318154.0,1987-05-01,149251052925
+ADBE,Adobe Inc,Technology,Technology,"San Jose, CALIFORNIA",1997-12-02,796343.0,1986-01-08,253776250000
+PDD,Pinduoduo Inc,Consumer Cyclical,Consumer Cyclical,"Shanghai, SHANGHAI",2020-08-24,1737806.0,2018-07-26,160662893783
+MRNA,Moderna Inc,Healthcare,Healthcare,"Cambridge, MASSACHUSETTS",2020-07-20,1682852.0,2018-12-07,63419974264
+CPRT,Copart Inc,Industrials,Industrials,"Dallas, TEXAS",2019-12-23,900075.0,1994-03-17,29237270400
+ANSS,ANSYS Inc,Technology,Technology,"Canonsburg, PENNSYLVANIA",2019-12-23,1013462.0,1996-06-20,32826451681
+EXC,Exelon Corp,Utilities,Utilities,"Chicago, ILLINOIS",2019-11-21,1109357.0,1943-07-06,44763060000
+FOXA,Fox Corp,Communication Services,Communication Services,"New York City, NEW YORK",2019-03-19,,2019-02-27,23071963782
+FOX,Twenty-First Century Fox Inc.,Communication Services,Communication Services,"New York, NY",2019-03-19,1754301.0,,21988460000
+LULU,Lululemon Athletica Inc,Consumer Cyclical,Consumer Cyclical,"Vancouver, BRITISH COLUMBIA",2018-12-24,1397187.0,2007-05-01,42461512245
+AMD,Advanced Micro Devices Inc,Technology,Technology,"Santa Clara, CALIFORNIA",2018-12-24,2488.0,1979-10-15,101853272454
+PEP,PepsiCo Inc,Consumer Defensive,Consumer Defensive,"Purchase, NEW YORK",2018-07-23,77476.0,1919-12-18,197810897220
+KHC,Kraft Heinz Co,Consumer Defensive,Consumer Defensive,"Pittsburgh, PENNSYLVANIA",2015-07-06,1637459.0,2015-07-06,50450448771
+WDAY,Workday Inc,Technology,Technology,"Pleasanton, CALIFORNIA",2017-12-18,1327811.0,2012-12-10,62727809848
+PTON,Peloton Interactive Inc,Consumer Cyclical,Consumer Cyclical,"New York, New York",2020-12-21,1639825.0,2012-02-15,41018028565
+ALGN,Align Technology Inc,Healthcare,Healthcare,"San Jose, CALIFORNIA",2017-10-23,1097149.0,2001-01-26,48198314559
+MELI,Mercadolibre Inc,Consumer Cyclical,Consumer Cyclical,"Buenos Aires, BUENOS AIRES",2017-06-19,1099590.0,2007-08-10,79686388507
+AEP,American Electric Power Company Inc,Utilities,Utilities,"Columbus, Ohio",2020-12-21,4904.0,1906,43681831909
+NTES,NetEase Inc.,Communication Services,Communication Services,,2016-03-16,1110646.0,,72207622663
+CSX,CSX Corp,Industrials,Industrials,"Jacksonville, FLORIDA",2016-02-22,277948.0,1980-11-03,75734422298
+TEAM,Atlassian Corporation PLC,Technology,Technology,"Sydney, Australia",2020-12-21,1650372.0,2002,59588327685
+TMUS,T-Mobile US Inc,Communication Services,Communication Services,"Bellevue, WASHINGTON",2015-12-21,1283699.0,2007-04-18,164543501463
+SWKS,Skyworks Solutions Inc,Technology,Technology,"Irvine, CALIFORNIA",2015-08-03,4127.0,2002-07-03,32086393990
+EBAY,eBay Inc,Consumer Cyclical,Consumer Cyclical,"San Jose, CALIFORNIA",1999-10-06,1065088.0,1998-09-23,44794560696
+BIDU,Baidu Inc,Communication Services,Communication Services,"Beijing, BEIJING",2007-12-04,1329099.0,2005-08-05,72274418471
+MAR,Marriott International Inc,Consumer Cyclical,Consumer Cyclical,"Bethesda, MARYLAND",2013-11-18,1048286.0,1998-03-23,48662513716
+WDC,Western Digital Corp,Technology,Technology,"San Jose, CALIFORNIA",2012-12-24,106040.0,1991-01-31,20481540894
+VRSK,Verisk Analytics Inc,Industrials,Industrials,"Jersey City, NEW JERSEY",2012-12-24,1442145.0,2009-10-09,30577411197
+QCOM,Qualcomm Inc,Technology,Technology,"San Diego, CALIFORNIA",1997-12-02,804328.0,1991-12-01,159343035376
+ADI,Analog Devices Inc,Technology,Technology,"Norwood, MASSACHUSETTS",2012-12-24,6281.0,1979-04-03,59835871226
+MDLZ,Mondelez International Inc,Consumer Defensive,Consumer Defensive,"Chicago, ILLINOIS",2012-07-23,1103982.0,2001-06-13,84483688561
+CDNS,Cadence Design Systems Inc,Technology,Technology,"San Jose, CALIFORNIA",2005-12-21,,1988-06-01,41244762332
+AVGO,Broadcom Inc,Technology,Technology,"San Jose, CALIFORNIA",2011-12-19,1730168.0,2016-02-01,202560000000
+MRVL,Marvell Technology Group Ltd,Technology,Technology,"Hamilton, Bermuda",2020-12-21,1058057.0,1995,32564259052
+ALXN,Alexion Pharmaceuticals Inc,Healthcare,Healthcare,"Boston, MASSACHUSETTS",2011-04-04,899866.0,1996-02-01,34517012466
+NFLX,Netflix Inc,Communication Services,Communication Services,"Los Gatos, CALIFORNIA",2010-12-20,1065280.0,2002-05-29,249943418162
+BKNG,Booking Holdings Inc,Consumer Cyclical,Consumer Cyclical,"Norwalk, CONNECTICUT",2009-10-29,1075531.0,1999-03-29,99625348643
+ORLY,O'Reilly Automotive Inc,Consumer Cyclical,Consumer Cyclical,"Springfield, MISSOURI",2008-12-23,898173.0,1993-04-22,37985733562
+ILMN,Illumina Inc,Healthcare,Healthcare,"San Diego, CALIFORNIA",2008-12-22,1110803.0,2000-07-28,59490078668
+MNST,Monster Beverage Corp,Consumer Defensive,Consumer Defensive,"Corona, CALIFORNIA",2007-12-24,865752.0,1985-12-09,51256392447
+GOOGL,Alphabet Inc,Communication Services,Communication Services,"Mountain View, CALIFORNIA",2005-12-21,,2004-08-19,1560754907250
+ATVI,Activision Blizzard Inc,Communication Services,Communication Services,"Santa Monica, CALIFORNIA",2005-12-21,718877.0,1983-06-10,76268399220
+SIRI,Sirius XM Holdings Inc,Communication Services,Communication Services,"New York City, NEW YORK",2004-12-19,908937.0,1994-09-13,26332800000
+LRCX,Lam Research Corp,Technology,Technology,"Fremont, CALIFORNIA",2003-12-22,707549.0,1984-05-11,95637576000
+NVDA,NVIDIA Corp,Technology,Technology,"Santa Clara, CALIFORNIA",2001-05-31,1045810.0,1999-01-22,407304183690
+PAYX,Paychex Inc,Industrials,Industrials,"Rochester, NEW YORK",1997-12-02,723531.0,2005-06-05,34941267274
+KLAC,KLA Corp,Technology,Technology,"Milpitas, CALIFORNIA",1997-12-02,319201.0,1980-10-08,52663283800
+CSCO,Cisco Systems Inc,Technology,Technology,"San Jose, CALIFORNIA",1997-12-02,858877.0,1990-02-01,218643755766
+ADSK,Autodesk Inc,Technology,Technology,"San Rafael California, CALIFORNIA",1997-12-02,769397.0,1985-05-01,65629652706
+MTCH,Match Group Inc,Communication Services,Communication Services,"Dallas, Texas",2020-12-21,1575189.0,2009-02-12,38191173940
+OKTA,Okta Inc,Technology,Technology,"San Francisco, California",2020-12-21,1660134.0,2009-01-16,35326965250
