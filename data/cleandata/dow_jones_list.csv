@@ -1,0 +1,31 @@
+symbol,name,sector,subSector,headQuarter,dateFirstAdded,cik,founded,marketcap
+CRM,Salesforce.Com Inc,Technology,Technology,"San Francisco, CALIFORNIA",2020-08-31,1108524,2004-06-23,212263000000
+WBA,Walgreens Boots Alliance Inc,Healthcare,Healthcare,"Deerfield, ILLINOIS",2018-06-26,1618921,2014-12-31,46483916865
+V,Visa Inc,Financial Services,Financial Services,"San Francisco, CALIFORNIA",2013-09-23,1403161,2008-03-19,497815997800
+NKE,Nike Inc,Consumer Cyclical,Consumer Cyclical,"Beaverton, OREGON",2013-09-23,320187,1990-10-17,212976407813
+UNH,UnitedHealth Group Inc,Healthcare,Healthcare,"Hopkins, MINNESOTA",2012-09-24,731766,1984-10-17,374799619610
+TRV,Travelers Companies Inc,Financial Services,Financial Services,"Saint Paul, MINNESOTA",2009-06-08,86312,1991-11-08,39253748254
+VZ,Verizon Communications Inc,Communication Services,Communication Services,"New York City, NEW YORK",2004-04-08,732712,1984-02-15,238993404142
+INTC,Intel Corp,Technology,Technology,"Santa Clara, CALIFORNIA",1999-11-01,50863,1971-10-13,267817367643
+WMT,Walmart Inc,Consumer Defensive,Consumer Defensive,"Bentonville, ARKANSAS",1997-03-17,104169,1972-08-25,396092171303
+JNJ,Johnson & Johnson,Healthcare,Healthcare,"New Brunswick, NEW JERSEY",1997-03-17,200406,1944-09-25,428112985330
+DIS,Walt Disney Co,Consumer Cyclical,Consumer Cyclical,"Burbank, CALIFORNIA",1994-01-01,1744489,1957-11-12,338950377239
+MCD,Mcdonald's Corp,Consumer Cyclical,Consumer Cyclical,"Chicago, ILLINOIS",1994-01-01,63908,1966-07-05,172329268559
+JPM,JPMorgan Chase & Co,Financial Services,Financial Services,"New York City, NEW YORK",1994-01-01,19617,1969-03-05,469459660829
+CAT,Caterpillar Inc,Industrials,Industrials,"Deerfield, ILLINOIS",1994-01-01,18230,1929-12-02,127769742198
+BA,Boeing Co,Industrials,Industrials,"Chicago, ILLINOIS",1994-01-01,12927,1934-09-05,142153371566
+AMGN,Amgen Inc,Healthcare,Healthcare,"Thousand Oaks, CALIFORNIA",2020-08-31,318154,1987-05-01,149251052925
+DOW,Dow Inc,Basic Materials,Basic Materials,"Midland, MICHIGAN",2019-04-02,1751788,2019-03-20,47814084999
+AAPL,Apple Inc,Technology,Technology,"Cupertino, CALIFORNIA",2015-03-19,320193,1980-12-12,2301791036000
+GS,Goldman Sachs Group Inc,Financial Services,Financial Services,"New York City, NEW YORK",2013-09-23,886982,1999-05-04,121844140681
+CSCO,Cisco Systems Inc,Technology,Technology,"San Jose, CALIFORNIA",2009-06-08,858877,1990-02-01,218643755766
+MSFT,Microsoft Corp,Technology,Technology,"Redmond, WASHINGTON",1999-11-01,789019,1986-03-13,1976352000000
+HD,Home Depot Inc,Consumer Cyclical,Consumer Cyclical,"Atlanta, GEORGIA",1999-11-01,354950,1984-04-19,347590969230
+PG,Procter & Gamble Co,Consumer Defensive,Consumer Defensive,"Cincinnati, OHIO",1994-01-01,80424,1950-03-22,358937509077
+MRK,Merck & Co Inc,Healthcare,Healthcare,"Kenilworth, NEW JERSEY",1994-01-01,310158,1946-06-15,193931421838
+IBM,International Business Machines Corp,Technology,Technology,"Armonk, NEW YORK",1994-01-01,51143,1915-11-11,118181813782
+HON,Honeywell International Inc,Industrials,Industrials,"Charlotte, NORTH CAROLINA",1994-01-01,773840,1985-09-19,161485581189
+KO,Coca-Cola Co,Consumer Defensive,Consumer Defensive,"Atlanta, GEORGIA",1994-01-01,21344,1919-09-05,228945698586
+CVX,Chevron Corp,Energy,Energy,"San Ramon, CALIFORNIA",1994-01-01,93410,1921-06-24,191692379152
+AXP,American Express Co,Financial Services,Financial Services,"New York City, NEW YORK",1994-01-01,4962,1977-05-18,119715179194
+MMM,3M Co,Industrials,Industrials,"Saint Paul, MINNESOTA",1994-01-01,66740,1946-01-14,114103941688
