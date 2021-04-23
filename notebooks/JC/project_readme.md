@@ -36,7 +36,7 @@ Our portfolios change over time and most platforms show your historical data, an
 ## Installation Guide
 ```markdown
 
-Review all the details and commnads for the inmstallation [requests file](/project1/requirements.txt)
+Review all the details and commnads for the inmstallation [request file](/project1/requirements.txt)
 
 ```
 ---
@@ -45,19 +45,19 @@ Review all the details and commnads for the inmstallation [requests file](/proje
 
 ![Portfolio Analyzer](/images/Presentation/PA_sector.PNG)
 
-![Portfolio Rebalance](/images/PA_rebalance_jorge.PNG)
+![Portfolio Rebalance](/images/Presentation/PA_rebalance_jorge.PNG)
 
-![Portfolio Screener](/images/PA_screener.PNG)
+![Portfolio Screener](/images/Presentation/PA_screener.PNG)
 
-![Portfolio Ratings](/images/PA_ratings_jc.PNG)
+![Portfolio Ratings](/images/Presentation/PA_ratings_jc.PNG)
 
-![Portfolio News](/images/PA_news_jc.PNG)
+![Portfolio News](/images/Presentation/PA_news_jc.PNG)
 
-![Portfolio Distribution](/images/PA_bitcoin_dist_plot.PNG)
+![Portfolio Distribution](/images/Presentation/PA_bitcoin_dist_plot.PNG)
 
-![Bitcoin Forecast](/images/PA_bitcoin_forecast.PNG)
+![Bitcoin Forecast](/images/Presentation/PA_bitcoin_forecast.PNG)
 
-![SMS Notification](/images/PA_bitcoin_sms.PNG)
+![SMS Notification](/images/Presentation/PA_bitcoin_sms.PNG)
 
 ---
 
@@ -65,7 +65,7 @@ Review all the details and commnads for the inmstallation [requests file](/proje
 
 You can see the following animation, explaining how to use your project based on dashboard.
 
-![Dashboard](/images/PA_preview.gif)
+![Dashboard](/images/Presentation/PA_preview.gif)
 
 ---
 
