@@ -47,9 +47,9 @@ Review all the details and commnads for the inmstallation [request file](/projec
 
 ![Portfolio Rebalance](/images/Presentation/PA_rebalance_jorge.PNG)
 
-![Portfolio Screener](/images/Presentation/PA_screener.PNG)
-
 ![Portfolio Ratings](/images/Presentation/PA_ratings_jc.PNG)
+
+![Portfolio Screener](/images/Presentation/PA_screener.PNG)
 
 ![Portfolio News](/images/Presentation/PA_news_jc.PNG)
 
@@ -57,7 +57,7 @@ Review all the details and commnads for the inmstallation [request file](/projec
 
 ![Bitcoin Forecast](/images/Presentation/PA_bitcoin_forecast.PNG)
 
-![SMS Notification](/images/Presentation/PA_bitcoin_sms.PNG)
+![SMS Notification](/images/Presentation/PA_bitcoin_sms.jpg)
 
 ---
 
