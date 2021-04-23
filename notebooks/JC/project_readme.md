@@ -1,10 +1,11 @@
-# Project #1 - FinTech - UM
-
-```markdown
+## Project #1 - FinTech - UM
+---
 # Manage Portfolios Investment
 
+![Manage Portfolios Investment](https://www.creditdonkey.com/image/1/550w/free-portfolio-management-software-20201221.jpg)
+
 Our portfolios change over time and most platforms show your historical data, and your current performance, but not many of them can track the different stages in portfolios and keep them to compare to the chosen Portfolio. This project will require to develop a tool to keep track the different stages of the user's portfolio as screentshots on a gallery that you can scroll to see what would have been the performance To-Date of a given portfolio. Also it will keep track of every stock/portfolio included in the user's Watch lists and show the performance To-Date.
-```
+
 ---
 
 ## Technologies
@@ -34,30 +35,29 @@ Our portfolios change over time and most platforms show your historical data, an
 ---
 
 ## Installation Guide
-```markdown
 
-Review all the details and commnads for the inmstallation [requests file](/project1/requirements.txt)
+Review all the details and commnads for the inmstallation [Request File](https://github.com/wchance/project1/blob/main/requirements.txt)
 
-```
+
 ---
 
 ## Examples
 
 ![Portfolio Analyzer](/images/Presentation/PA_sector.PNG)
 
-![Portfolio Rebalance](/images/PA_rebalance_jorge.PNG)
+![Portfolio Rebalance](/images/Presentation/PA_rebalance_jorge.PNG)
 
-![Portfolio Screener](/images/PA_screener.PNG)
+![Portfolio Ratings](/images/Presentation/PA_ratings_jc.PNG)
 
-![Portfolio Ratings](/images/PA_ratings_jc.PNG)
+![Portfolio Screener](/images/Presentation/PA_screener.PNG)
 
-![Portfolio News](/images/PA_news_jc.PNG)
+![Portfolio News](/images/Presentation/PA_news_jc.PNG)
 
-![Portfolio Distribution](/images/PA_bitcoin_dist_plot.PNG)
+![Portfolio Distribution](/images/Presentation/PA_bitcoin_dist_plot.png)
 
-![Bitcoin Forecast](/images/PA_bitcoin_forecast.PNG)
+![Bitcoin Forecast](/images/Presentation/PA_bitcoin_forecast.PNG)
 
-![SMS Notification](/images/PA_bitcoin_sms.PNG)
+![SMS Notification](/images/Presentation/PA_bitcoin_sms.jpg)
 
 ---
 
@@ -65,7 +65,7 @@ Review all the details and commnads for the inmstallation [requests file](/proje
 
 You can see the following animation, explaining how to use your project based on dashboard.
 
-![Dashboard](/images/PA_preview.gif)
+![Dashboard](/images/Presentation/PA_preview.gif)
 
 ---
 
