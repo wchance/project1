@@ -1,6 +1,6 @@
 ## Project #1 - FinTech - UM
 ---
-# Manage Portfolios Investment
+# Portfolio Management
 
 ![Manage Portfolios Investment](https://www.creditdonkey.com/image/1/550w/free-portfolio-management-software-20201221.jpg)
 
