@@ -5,8 +5,8 @@
 ![Manage Portfolios Investment](https://www.creditdonkey.com/image/1/550w/free-portfolio-management-software-20201221.jpg)
 
 Our portfolios change over time and most platforms show your historical data, and your current performance, but not many of them can track the different stages in portfolios and keep them to compare to the chosen Portfolio. 
-This project will require to develop a tool to keep track the different stages of the user's portfolio as screentshots on a gallery that you can scroll to see what would have been the performance To-Date of a given portfolio. 
-Also it will keep track of every stock/portfolio included in the user's Watch lists and show the performance To-Date.
+- This project will require to develop a tool to keep track the different stages of the user's portfolio as screentshots on a gallery that you can scroll to see what would have been the performance To-Date of a given portfolio. 
+- Also it will keep track of every stock/portfolio included in the user's Watch lists and show the performance To-Date.
 
 ---
 
