@@ -78,8 +78,8 @@ You can see the following animation, explaining how to use your project based on
 
 ## Contributors
 
-- William Chance -> [Email](mailto:william@chance.tel) - [LinkedIn](www.linkedin.com/in/cryptopayments) - [Twitter](@chancetele)
-- Jorge Sira -> [Email](mailto:jsirab@gmail.com) - [LinkedIn](www.linkedin.com/in/jsirab) - [Twitter](@jsirab)
+- William Chance -> [Email](mailto:william@chance.tel) - [LinkedIn](https://www.linkedin.com/in/cryptopayments) - [Twitter](@chancetele)
+- Jorge Sira -> [Email](mailto:jsirab@gmail.com) - [LinkedIn](https://www.linkedin.com/in/jsirab) - [Twitter](@jsirab)
 - Juan Carlos Castaneda -> [Email](mailto:jcarlosusa@gmail.com) - [LinkedIn](https://www.linkedin.com/in/juancarloscastaneda/) - [Twitter](@jcarlosusa)
 
 ---
