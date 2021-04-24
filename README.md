@@ -37,7 +37,7 @@ Our portfolios change over time and most platforms show your historical data, an
 ## Installation Requirements
 
 Please use file requirements.txt to install the required modules in a new python environment.  
-[Request File](https://github.com/wchance/project1/blob/main/requirements.txt)
+[Request File](https://github.com/wchance/project1/blob/main/notebooks/requirements.txt)
 
 
 ---
