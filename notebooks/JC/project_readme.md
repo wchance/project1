@@ -34,9 +34,10 @@ Our portfolios change over time and most platforms show your historical data, an
 
 ---
 
-## Installation Guide
+## Installation Requirements
 
-Review all the details and commnads for the inmstallation [Request File](https://github.com/wchance/project1/blob/main/requirements.txt)
+Please use file requirements.txt to install the required modules in a new python environment.  
+[Request File](https://github.com/wchance/project1/blob/main/requirements.txt)
 
 
 ---
@@ -55,7 +56,11 @@ Review all the details and commnads for the inmstallation [Request File](https:/
 
 ![Portfolio Distribution](/images/Presentation/PA_bitcoin_dist_plot.png)
 
-![Bitcoin Forecast](/images/Presentation/PA_bitcoin_forecast.PNG)
+![Daily Returns for Portfolio](/images/Presentation/TA_1_Capture.PNG)
+
+![Bitcoin Forecast1](/images/Presentation/PA_bitcoin_forecast1.PNG)
+
+![Bitcoin Forecast2](/images/Presentation/PA_bitcoin_forecast2.PNG)
 
 ![SMS Notification](/images/Presentation/PA_bitcoin_sms.jpg)
 
