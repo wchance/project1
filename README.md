@@ -62,7 +62,7 @@ Please use file requirements.txt to install the required modules in a new python
 
 ![Bitcoin Forecast2](/images/Presentation/PA_bitcoin_forecast2.PNG)
 
-![SMS Notification](/images/Presentation/PA_bitcoin_sms1.jpg)
+![SMS Notification](/images/Presentation/PA_bitcoin_sms.jpg)
 
 ---
 
