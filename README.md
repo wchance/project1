@@ -78,6 +78,7 @@ You can see the following animation, explaining how to use your project based on
 
 ## Contributors
 
+- ![William Chance](https://media-exp1.licdn.com/dms/image/C4D03AQHgEqEo4tdmuA/profile-displayphoto-shrink_400_400/0/1516558147379?e=1624492800&v=beta&t=FQ_4uwiHgOg_iSmizAsyC0oBLlXzbQQIu-QjqTbeHr8)
 - William Chance -> [Email](mailto:william@chance.tel) - [LinkedIn](https://www.linkedin.com/in/cryptopayments) - [Twitter](@chancetele)
 - Jorge Sira -> [Email](mailto:jsirab@gmail.com) - [LinkedIn](https://www.linkedin.com/in/jsirab) - [Twitter](@jsirab)
 - Juan Carlos Castaneda -> [Email](mailto:jcarlosusa@gmail.com) - [LinkedIn](https://www.linkedin.com/in/juancarloscastaneda/) - [Twitter](@jcarlosusa)
