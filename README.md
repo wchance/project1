@@ -1,48 +1,114 @@
-# Fintech Project 1
-## What If???
+## Project #1 - FinTech - UM
+---
+# Portfolio Management
 
-What If? Is not the proposeed name for the project, instead is the ever present question in an investors vocabulary.  What if? I have Bought this, held that, sold that,  etc etc etc. 
+![Manage Portfolios Investment](https://www.creditdonkey.com/image/1/550w/free-portfolio-management-software-20201221.jpg)
 
-# 1. Collaborators:
-William Chance, Juan Carlos Castaneda, Jorge Sira
+Our portfolios change over time and most platforms show the historical data, and the current performance; but not many of them can track the different stages in portfolios and keep them to compare to the chosen Portfolio. 
+- This project will require to develop a tool to keep track the different stages of the user's portfolio as screentshots on a gallery that you can scroll to see what would have been the performance To-Date of a given portfolio. 
+- Also it will keep track of every stock/portfolio included in the user's Watch lists and show the performance To-Date.
 
-# 2. Development
+---
 
-Our portfolios change over time and most platforms show your historical data, and your current performance, but not many of them can track the different stages in portfolios and keep them to compare to the chosen Portfolio.  This project will require to develop a tool to keep track the different stages of the user's portfolio as screentshots on a gallery that you can scroll to see what would have been the performance To-Date of a given portfolio. Also it will keep track of every stock/portfolio included in the user's Watch lists and show the performance To-Date.
+## Technologies
 
-[PORTFOLIOS TIME MACHINE](https://github.com/wchance/project1/blob/develop/Portfolios_Time_Machine.pdf)
+- Python, ANACONDA.NAVIGATOR 1.10.0
+    - JupytherLab 2.2.6
+- Libraries
+    - json
+    - hvplot
+    - pltly
+    - Pathlib
+    - Matplot
+    - OS
+    - Panel
+    - numpy
+    - Monte Carlo Simulation
+    - Pandas
+- APIs
+    - Finacial Modeling Prep
+    - Twilio
+    - Topfolio
+- Operation Systems
+    - Windows 10
+    - macOS Catalina
+    - macOS Big Sur
 
-For the scope of this work the service will be available for users conected with any of  three mayor brokers: Interactive Brokers("i Use this one and i'm familiar with it",) Robinhood, and XXXXXXXXX. By the use of APIS, a pull request of the data will gather the required information. An alternate method would be the use of platforms like [PLAID](https://plaid.com/products/auth/overview/?utm_source=google&utm_medium=search&utm_campaign=Search_G_Brand_Exact&utm_content=plaid&utm_term=plaid&utm_creative=481138286147&gclid=CjwKCAjwvMqDBhB8EiwA2iSmPEw55UTNOCqFC1q8oKE0GIMjkTe89u_oL4OGWFk-k7cvzULYNdFxoBoCKOsQAvD_BwE), that require the use of a single API, to connect to a larger list of Brokers.
+---
 
-The algorithm will return the performance of any portfolio, based on the data, will chose the top 5 tocks performers based on; price increase, volatility, Risk-Reward, correlation etc, as well as the run  of future performance simulations to create the ideal portfolio based on the users picks, this can help the user make decisions to fine tune a portfolio or call for actionable insights.
+## Installation Requirements
+
+Please use file requirements.txt to install the required modules in a new python environment.  
+[Request File](https://github.com/wchance/project1/blob/main/notebooks/requirements.txt)
 
 
-# Enhacement(Optional Challenge)
+---
 
-Depending on the result of the Develpment stage, we can turn the code into a web app. By the use of a templated tool like [Bubble](https://bubble.io/welcome), wich uses no code drag-and-drop block of actions to develop apps.
-Develpoment of a basic website
+## Examples
 
-# Fintech Project 
-1## Manage Portfolios Investment 
+![Portfolio Analyzer](/images/Presentation/PA_sector.PNG)
 
-We have to created three portfolios 
-1. Conservative 
-2. medium 
-3. Aggressive 
+![Portfolio Rebalance](/images/Presentation/PA_rebalance_jorge.PNG)
 
-We look for investors to give the best Return on investment The total amount won yearly we charge 10% from earnings
+![Portfolio Ratings](/images/Presentation/PA_ratings_jc.PNG)
 
-What we have to do: 
-    Dashboards with Total Money Invested 
-    Total Number if Investors 
-    Percentage of Total fund by investors 
-    Percentage of investment in different markets 
-    We have to do projection based on Monte Carlo simulation 
-    Connect with APIs and compare portfolios with SAP500 Trying to have the best return of investment with lower risk
+![Portfolio Screener](/images/Presentation/PA_screener.PNG)
 
-Investors Can see how is their performance How much income they have if they decided to withdraw 
+![Portfolio News](/images/Presentation/PA_news_jc.PNG)
 
-# Collaborators:
-    - William Chance 
-    - Jorge Sira 
-    - Juan Carlos Castaneda
+![Portfolio Distribution](/images/Presentation/PA_bitcoin_dist_plot.png)
+
+![Daily Returns for Portfolio](/images/Presentation/TA_1_Capture.PNG)
+
+![Bitcoin Forecast1](/images/Presentation/PA_bitcoin_forecast1.PNG)
+
+![Bitcoin Forecast2](/images/Presentation/PA_bitcoin_forecast2.PNG)
+
+![SMS Notification](/images/Presentation/PA_bitcoin_sms.jpg)
+
+---
+
+## Usage
+
+You can see the following animation, explaining how to use your project based on dashboard.
+
+![Dashboard](/images/Presentation/PA_preview.gif)
+
+---
+
+## Contributors
+
+- William Chance -> [Email](mailto:william@chance.tel) - [LinkedIn](https://www.linkedin.com/in/cryptopayments) - [Twitter](https://twitter.com/chancetele)
+- Jorge Sira -> [Email](mailto:jsirab@gmail.com) - [LinkedIn](https://www.linkedin.com/in/jsirab) - [Twitter](https://twitter.com/jsirab)
+- Juan Carlos Castaneda -> [Email](mailto:jcarlosusa@gmail.com) - [LinkedIn](https://www.linkedin.com/in/juancarloscastaneda/) - [Twitter](https://twitter.com/jcarlosusa)
+
+---
+
+## License
+
+Our project is hosted in GitHub and our repository to truly be open source. The license it free to use, change, and distribute the software.
+
+For more details about ["Licensing a repository" read this help article in GitHub website](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository).
+
+---
+
+## Additional Resources
+
+Here you can find the companies and websites where the information was pulled for this project:
+
+* [Financial Modeling Prep.](https://financialmodelingprep.com/) Financial Modeling Prep is a new concept that informs you about stock markets information (news, currencies and stock prices).
+
+* [Topfolio.](https://www.topfol.io/#/login) API indicater data for BITCOIN price.
+
+* [Alternative.](https://alternative.me/crypto/api/). Public API for coin and token prices after CoinMarketCap decided to discontinue their public API.
+
+* [GitHub.](https://github.com/) provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+
+* [Investopedia.](https://www.investopedia.com/) American financial website headquartered in New York City. Founded during the dot-com bubble, Investopedia provides investment dictionaries, advice, reviews, ratings, and comparisons of financial products such as brokerage accounts.
+
+* [Stackoverflow.](https://stackoverflow.com/) American financial website headquartered in New York City. Founded during the dot-com bubble, Investopedia provides investment dictionaries, advice, reviews, ratings, and comparisons of financial products such as brokerage accounts.
+
+* [Twilio.](https://www.twilio.com/) American cloud communications platform as a service company based in San Francisco, California. Twilio allows software developers to programmatically make and receive phone calls, send and receive text messages, and perform other communication functions using its web service APIs.
+
+---
+© April, 2021 Wiliam-Jorge-JC. All Rights Reserved.
